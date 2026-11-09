@@ -40,5 +40,5 @@ jobs:
         run: |
           git config user.name "alarme"
           git config user.email "alarme@users.noreply.github.com"
-          git add vistos.json
+          git add vistos.json pedidos.json
           git diff --cached --quiet || (git commit -m "vistos" && git push)
