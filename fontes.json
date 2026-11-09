@@ -1,16 +1,79 @@
 {
   "filtro": "\\bGTA[ -]?(6|VI)\\b|\\bGTA(6|VI)\\b|Grand Theft Auto[ -]?(6|VI)\\b|\\bLeonida\\b",
   "feeds": [
-    { "nome": "Rockstar (YouTube)", "canal": "UC6VcWc1rAoWdBCM0JxrRQ3A", "todos": true, "oficial": true },
-    { "nome": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed" },
-    { "nome": "GameSpot", "url": "https://www.gamespot.com/feeds/news/" },
-    { "nome": "VGC", "url": "https://www.videogameschronicle.com/feed/" },
-    { "nome": "PC Gamer", "url": "https://www.pcgamer.com/rss/" },
-    { "nome": "Eurogamer", "url": "https://www.eurogamer.net/feed" },
-    { "nome": "GTA BOOM", "url": "https://www.gtaboom.com/feed" },
-    { "nome": "gameranx (YouTube)", "canal": "UCNvzD7Z-g64bPXxGzaQaa4g" },
-    { "nome": "MKIceAndFire (YouTube)", "canal": "UC1bwliGvJogr7cWK0nT2Eag" },
-    { "nome": "Gamer's Little Playground (YouTube)", "canal": "UCiZVMOinTQGb8HQu53VbV4Q" },
-    { "nome": "Shirrako (YouTube)", "canal": "UC7eAfUjR9gdIjoaoQaS0W-A" }
+    {
+      "nome": "Rockstar (YouTube)",
+      "canal": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+      "todos": true,
+      "oficial": true
+    },
+    {
+      "nome": "IGN",
+      "url": "https://www.ign.com/rss/v2/articles/feed"
+    },
+    {
+      "nome": "GameSpot",
+      "url": "https://www.gamespot.com/feeds/news/"
+    },
+    {
+      "nome": "VGC",
+      "url": "https://www.videogameschronicle.com/feed/"
+    },
+    {
+      "nome": "PC Gamer",
+      "url": "https://www.pcgamer.com/rss/"
+    },
+    {
+      "nome": "Eurogamer",
+      "url": "https://www.eurogamer.net/feed"
+    },
+    {
+      "nome": "GTA BOOM",
+      "url": "https://www.gtaboom.com/feed"
+    },
+    {
+      "nome": "gameranx (YouTube)",
+      "canal": "UCNvzD7Z-g64bPXxGzaQaa4g"
+    },
+    {
+      "nome": "MKIceAndFire (YouTube)",
+      "canal": "UC1bwliGvJogr7cWK0nT2Eag"
+    },
+    {
+      "nome": "Gamer's Little Playground (YouTube)",
+      "canal": "UCiZVMOinTQGb8HQu53VbV4Q"
+    },
+    {
+      "nome": "Shirrako (YouTube)",
+      "canal": "UC7eAfUjR9gdIjoaoQaS0W-A"
+    },
+    {
+      "nome": "Rockstar Intel",
+      "url": "https://www.rockstarintel.com/feed"
+    },
+    {
+      "nome": "Insider Gaming",
+      "url": "https://insider-gaming.com/feed/"
+    },
+    {
+      "nome": "TheGamer",
+      "url": "https://www.thegamer.com/feed/"
+    },
+    {
+      "nome": "Ei Nerd",
+      "url": "https://www.einerd.com.br/feed/"
+    },
+    {
+      "nome": "IGN Brasil",
+      "url": "https://br.ign.com/feed.xml"
+    },
+    {
+      "nome": "TecMundo",
+      "url": "https://rss.tecmundo.com.br/feed"
+    },
+    {
+      "nome": "GameBlast",
+      "url": "https://www.gameblast.com.br/feeds/posts/default"
+    }
   ]
 }
