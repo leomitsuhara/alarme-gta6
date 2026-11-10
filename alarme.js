@@ -14,7 +14,9 @@ const path = require('path');
 const PASTA = __dirname;
 const ARQ_VISTOS = path.join(PASTA, 'vistos.json');
 const ARQ_PEDIDOS = path.join(PASTA, 'pedidos.json');
-const FORMATOS = ['Carrossel', 'Reels', 'Longo']; // o ntfy aceita no máximo 3 botões
+const FORMATOS = ['Carrossel', 'Reels', 'IA escolhe']; // o ntfy aceita no máximo 3 botões (testado em 09/11/2026)
+const ACEITOS = [...FORMATOS, 'Longo']; // toques antigos no botão Longo continuam valendo
+const TIPO = { 'IA escolhe': 'ia_escolhe' };
 const FONTES = JSON.parse(fs.readFileSync(path.join(PASTA, 'fontes.json'), 'utf8'));
 const FILTRO = new RegExp(FONTES.filtro, 'i');
 const MAX_POR_RODADA = 15;   // o resto vai na rodada seguinte
@@ -101,11 +103,12 @@ async function guardarPedidos() {
     try {
       const msg = JSON.parse(linha);
       const dados = JSON.parse(msg.message);
-      if (conhecidos.has(msg.id) || !FORMATOS.includes(dados.formato) || !/^https?:\/\//.test(dados.link || '')) continue;
+      if (conhecidos.has(msg.id) || !ACEITOS.includes(dados.formato) || !/^https?:\/\//.test(dados.link || '')) continue;
       pedidos.push({
         id: msg.id,
         quando: new Date(msg.time * 1000).toISOString(),
         formato: dados.formato,
+        tipo: TIPO[dados.formato] || 'formato',
         titulo: String(dados.titulo || '').slice(0, 300),
         link: dados.link,
         fonte: String(dados.fonte || '').slice(0, 80),
@@ -136,9 +139,9 @@ async function principal() {
   if (args.has('--teste')) {
     await avisar({
       titulo: 'Alarme de GTA 6: teste dos botões',
-      mensagem: 'TESTE: toque em um ou mais formatos para escolher.',
+      mensagem: 'TESTE: toque em IA escolhe para a IA decidir o formato.',
       link: 'https://www.rockstargames.com/VI',
-      fonte: 'Teste',
+      fonte: 'Teste do botão',
     });
     console.log('Aviso de teste enviado.');
     return;
