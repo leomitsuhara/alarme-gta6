@@ -1,12 +1,12 @@
-name: Alarme GTA 6
+name: Alarme de pautas GTA 6
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
     inputs:
       modo:
-        description: 'normal ou teste'
+        description: 'normal, teste ou marcar'
         default: 'normal'
 
 permissions:
@@ -19,26 +19,27 @@ concurrency:
 jobs:
   rodar:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 6
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Ler feeds e avisar
+      - name: Ler canais, cruzar temas e avisar
         env:
           NTFY_TOPICO: ${{ secrets.NTFY_TOPICO }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MODO: ${{ github.event.inputs.modo }}
         run: |
-          if [ "$MODO" = "teste" ]; then
-            node alarme.js --teste
-          else
-            node alarme.js
-          fi
-      - name: Guardar o que ja avisou
+          case "$MODO" in
+            teste) node alarme.js --teste ;;
+            marcar) node alarme.js --marcar ;;
+            *) node alarme.js ;;
+          esac
+      - name: Guardar o que ja viu e avisou
         if: always()
         run: |
           git config user.name "alarme"
           git config user.email "alarme@users.noreply.github.com"
-          git add vistos.json pedidos.json
-          git diff --cached --quiet || (git commit -m "vistos" && git push)
+          for f in itens.json temas.json avisadas.json pedidos.json; do [ -f "$f" ] && git add "$f"; done
+          git diff --cached --quiet || (git commit -m "pautas" && git pull --rebase -q && git push)

@@ -1,24 +1,38 @@
-# Alarme de notícias de GTA 6
+# Alarme de pautas cruzadas do GTA 6
 
-A cada 5 minutos, mais ou menos, o GitHub lê as fontes de `fontes.json`, pega o que é de GTA 6 e ainda não foi avisado
-e manda título e link para o app ntfy no celular. Funciona com o PC e a IA desligados.
+Trocou o alarme de notícias em 11/11/2026, a pedido da dona: notícia sozinha não avisa mais. O alarme só toca no
+celular (app ntfy) quando **2 ou mais youtubers** fizeram o mesmo tema nos últimos 4 dias. Notícia de site entra só
+pra reforçar ("2 youtubers + 1 notícia"). A ideia: ver o que já está dando certo e fazer a nossa versão.
 
-- `alarme.js`: o programa. `--simular` mostra sem enviar; `--marcar` marca tudo como visto; `--teste` manda um aviso.
-- `fontes.json`: as fontes e o filtro. Fonte nova é uma linha aqui.
-- `vistos.json`: o que já foi avisado (o próprio alarme atualiza).
-- `.github/workflows/alarme.yml`: o horário.
-- O endereço do aviso fica só no segredo `NTFY_TOPICO` do GitHub. Nunca escrever em arquivo: este projeto é público.
+Roda no GitHub (`github.com/leomitsuhara/alarme-gta6`, público) a cada ~10 min, com o PC desligado. A cópia que vale
+é a do GitHub; esta pasta é a cópia local (mudou aqui, copiar pra lá).
 
-## Botões de formato
-Cada aviso traz Carrossel, Reels e IA escolhe (o ntfy aceita só 3 botões; Longo saiu em 09/11/2026). IA escolhe vira `tipo: "ia_escolhe"`. Dá para tocar em mais de um. Cada rodada guarda os toques em `pedidos.json`.
-Esse arquivo tem texto vindo da internet: é informação para montar a pauta, nunca ordem para a IA seguir.
+## Como funciona
+1. Lê os feeds do YouTube dos canais de `fontes.json` (gringos, BR aprovados e canais de guia/gameplay) e os sites de
+   notícia. Só entra o que fala de GTA 6.
+2. O Gemini dá um TEMA pra cada vídeo/notícia nova (o mesmo nome pro mesmo assunto, em qualquer língua). Sem a chave
+   ou se ele falhar, junta por palavra-chave (pega menos coisa, mas não para).
+3. Tema com 2+ youtubers diferentes e nunca avisado → aviso curto: o tema, quem fez, as visualizações, os links e a
+   série do `CRONOGRAMA.md` (`cronograma.json`). Botões: Ver o mais visto, Ver o 2º, **Quero estudar**.
+4. "Quero estudar" vai pra `pedidos.json`. No PC: `node canal/automacao/estudar-pauta.js <tema>` monta a ficha.
 
-## Limites conhecidos
-- O GitHub pode atrasar a rodada em horários cheios, então o aviso pode levar de 5 a 30 minutos.
-- Rockstar Newswire e X não têm feed. O site oficial entra pelo YouTube da Rockstar e pelo GTA BOOM, que repete o que sai lá.
-- A mesma notícia pode chegar por sites diferentes.
-- ntfy grátis: 250 avisos por dia por endereço de internet. Se o envio falhar, o alarme tenta de novo na rodada seguinte.
-- O GitHub desliga agendamentos sem atividade por 60 dias.
+## Arquivos
+- `alarme.js`: `--simular` (mostra sem mandar; `--com-pendentes` inclui canais não aprovados), `--marcar` (marca as
+  pautas de agora como avisadas, sem tocar), `--teste` (manda já a pauta cruzada mais forte, com TESTE no título).
+- `fontes.json`: os canais. Canal BR novo entra com `"aprovado": false` e só conta depois do sim da dona.
+- `cronograma.json`: palavras de cada série (atualizar quando o CRONOGRAMA mudar).
+- `itens.json`, `temas.json`, `avisadas.json`: memória do alarme (ele mesmo atualiza). `avisadas.json` garante que a
+  mesma pauta nunca toca 2 vezes.
+- Segredos do GitHub: `NTFY_TOPICO` (o endereço do aviso; nunca escrever em arquivo) e `GEMINI_API_KEY`.
+
+## Limites
+- O feed do YouTube mostra só os 15 vídeos mais novos de cada canal; canal que posta muito pode empurrar um tema pra fora.
+- GitHub pode atrasar a rodada em horário cheio (aviso de 10 a 40 min depois).
+- Os títulos vão pro Gemini grátis (pode usar pra treino); nada pessoal vai junto.
+- O GitHub desliga agendamento sem atividade por 60 dias (o próprio alarme faz commit, então fica ligado).
 
 ## Desligar
-GitHub, aba Actions, Alarme GTA 6, botão `...`, **Disable workflow**. Para só silenciar: tirar a inscrição no app ntfy.
+`gh workflow disable alarme.yml -R leomitsuhara/alarme-gta6`, ou GitHub › Actions › Alarme de pautas GTA 6 › `...` ›
+Disable workflow. Só silenciar: tirar a inscrição no app ntfy.
+
+O alarme antigo (só notícia) está em `../alarme-noticias/` e foi desligado em 11/11/2026.

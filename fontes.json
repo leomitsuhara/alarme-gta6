@@ -1,79 +1,45 @@
 {
-  "filtro": "\\bGTA[ -]?(6|VI)\\b|\\bGTA(6|VI)\\b|Grand Theft Auto[ -]?(6|VI)\\b|\\bLeonida\\b",
-  "feeds": [
-    {
-      "nome": "Rockstar (YouTube)",
-      "canal": "UC6VcWc1rAoWdBCM0JxrRQ3A",
-      "todos": true,
-      "oficial": true
-    },
-    {
-      "nome": "IGN",
-      "url": "https://www.ign.com/rss/v2/articles/feed"
-    },
-    {
-      "nome": "GameSpot",
-      "url": "https://www.gamespot.com/feeds/news/"
-    },
-    {
-      "nome": "VGC",
-      "url": "https://www.videogameschronicle.com/feed/"
-    },
-    {
-      "nome": "PC Gamer",
-      "url": "https://www.pcgamer.com/rss/"
-    },
-    {
-      "nome": "Eurogamer",
-      "url": "https://www.eurogamer.net/feed"
-    },
-    {
-      "nome": "GTA BOOM",
-      "url": "https://www.gtaboom.com/feed"
-    },
-    {
-      "nome": "gameranx (YouTube)",
-      "canal": "UCNvzD7Z-g64bPXxGzaQaa4g"
-    },
-    {
-      "nome": "MKIceAndFire (YouTube)",
-      "canal": "UC1bwliGvJogr7cWK0nT2Eag"
-    },
-    {
-      "nome": "Gamer's Little Playground (YouTube)",
-      "canal": "UCiZVMOinTQGb8HQu53VbV4Q"
-    },
-    {
-      "nome": "Shirrako (YouTube)",
-      "canal": "UC7eAfUjR9gdIjoaoQaS0W-A"
-    },
-    {
-      "nome": "Rockstar Intel",
-      "url": "https://www.rockstarintel.com/feed"
-    },
-    {
-      "nome": "Insider Gaming",
-      "url": "https://insider-gaming.com/feed/"
-    },
-    {
-      "nome": "TheGamer",
-      "url": "https://www.thegamer.com/feed/"
-    },
-    {
-      "nome": "Ei Nerd",
-      "url": "https://www.einerd.com.br/feed/"
-    },
-    {
-      "nome": "IGN Brasil",
-      "url": "https://br.ign.com/feed.xml"
-    },
-    {
-      "nome": "TecMundo",
-      "url": "https://rss.tecmundo.com.br/feed"
-    },
-    {
-      "nome": "GameBlast",
-      "url": "https://www.gameblast.com.br/feeds/posts/default"
-    }
+  "filtro": "\\bGTA[ -]?(6|VI)\\b|\\bGTA(6|VI)\\b|Grand Theft Auto[ -]?(6|VI)\\b|\\bLeonida\\b|\\bVice City\\b|\\bJason e Lucia\\b|\\bJason and Lucia\\b",
+  "youtubers": [
+    { "nome": "gameranx", "canal": "UCNvzD7Z-g64bPXxGzaQaa4g", "grupo": "gringo" },
+    { "nome": "MojoPlays", "canal": "UC4HnC-AS714lT2TCTJ-A1zQ", "grupo": "gringo" },
+    { "nome": "WhatCulture Gaming", "canal": "UCvO9Xk3bheuxEemvknCj72g", "grupo": "gringo" },
+    { "nome": "Arekkz Gaming", "canal": "UC-zjH-e5XBzMpy_VtwIGRxQ", "grupo": "gringo" },
+    { "nome": "Honest Game Trailers", "canal": "UCf6J9yokPS0ys456jvjLBGQ", "grupo": "gringo" },
+    { "nome": "GTA Series Videos", "canal": "UCuWcjpKbIDAbZfHoru1toFg", "grupo": "gringo" },
+    { "nome": "Hazardous", "canal": "UCgXfEXQBy0r4MywuzNf3iGQ", "grupo": "gringo" },
+    { "nome": "Luke Stephens", "canal": "UCe4_UPAmhz2sqorGbF8oZHA", "grupo": "gringo" },
+    { "nome": "Skill Up", "canal": "UCZ7AeeVbyslLM_8-nVy2B8Q", "grupo": "gringo" },
+    { "nome": "GamingBolt", "canal": "UCXa_bzvv7Oo1glaW9FldDhQ", "grupo": "gringo" },
+    { "nome": "PowerPyx", "canal": "UCWBA1-H9A5IldSb3tNwQmtQ", "grupo": "guia" },
+    { "nome": "MKIceAndFire", "canal": "UC1bwliGvJogr7cWK0nT2Eag", "grupo": "guia" },
+    { "nome": "Gamer's Little Playground", "canal": "UCiZVMOinTQGb8HQu53VbV4Q", "grupo": "guia" },
+    { "nome": "Shirrako", "canal": "UC7eAfUjR9gdIjoaoQaS0W-A", "grupo": "guia" },
+    { "nome": "BelotoPlays", "canal": "UCLHA3hx1G4exHbHD2Q8n1qg", "grupo": "br", "aprovado": false },
+    { "nome": "Gigaton Games", "canal": "UCAjKLSz8h3XJM5CSJWvmoNA", "grupo": "br", "aprovado": false },
+    { "nome": "SanInPlay", "canal": "UCiQotbmKsXF1n3xp3MYvoiw", "grupo": "br", "aprovado": false },
+    { "nome": "WyzeWolf BR", "canal": "UCd39iO5kqxY36-KrnbxacDg", "grupo": "br", "aprovado": false },
+    { "nome": "Marlon XGamer", "canal": "UCeByslZcJ4SmITAL0-jSi4g", "grupo": "br", "aprovado": false },
+    { "nome": "GameSnooK", "canal": "UC5nwdidYs-9flkxtHR0PC9g", "grupo": "br", "aprovado": false },
+    { "nome": "Vitão GTA", "canal": "UCyA9ZabMk2di2-JCMi_s9NQ", "grupo": "br", "aprovado": false },
+    { "nome": "Gameplayrj", "canal": "UCJAbkIY17zAmCTNQHH0bQoQ", "grupo": "br", "rosto": true, "aprovado": false },
+    { "nome": "O Meu Canal de Games", "canal": "UC3-dfVmlcFoeW_eJ_4jP3gw", "grupo": "br", "rosto": true, "aprovado": false },
+    { "nome": "Davy Jones GTA 6", "canal": "UCK4vuzS4fX8qxWi5Ik7XQYA", "grupo": "br", "rosto": true, "aprovado": false }
+  ],
+  "noticias": [
+    { "nome": "Rockstar (YouTube)", "canal": "UC6VcWc1rAoWdBCM0JxrRQ3A", "todos": true, "oficial": true },
+    { "nome": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed" },
+    { "nome": "GameSpot", "url": "https://www.gamespot.com/feeds/news/" },
+    { "nome": "VGC", "url": "https://www.videogameschronicle.com/feed/" },
+    { "nome": "PC Gamer", "url": "https://www.pcgamer.com/rss/" },
+    { "nome": "Eurogamer", "url": "https://www.eurogamer.net/feed" },
+    { "nome": "GTA BOOM", "url": "https://www.gtaboom.com/feed" },
+    { "nome": "Rockstar Intel", "url": "https://www.rockstarintel.com/feed" },
+    { "nome": "Insider Gaming", "url": "https://insider-gaming.com/feed/" },
+    { "nome": "TheGamer", "url": "https://www.thegamer.com/feed/" },
+    { "nome": "Ei Nerd", "url": "https://www.einerd.com.br/feed/" },
+    { "nome": "IGN Brasil", "url": "https://br.ign.com/feed.xml" },
+    { "nome": "TecMundo", "url": "https://rss.tecmundo.com.br/feed" },
+    { "nome": "GameBlast", "url": "https://www.gameblast.com.br/feeds/posts/default" }
   ]
 }

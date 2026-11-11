@@ -1,0 +1,13 @@
+{
+  "fonte": "canal/personagem-jacare/CRONOGRAMA.md (aprovado 11/11/2026). A primeira regra que bater vale. Palavras sem acento e em minúsculas.",
+  "regras": [
+    { "serie": "Lista de qui 12/11: coisas pra saber antes de 19/11", "palavras": "precisa saber|antes de jogar|before you play|before you buy|things to know|need to know|coisas que voce" },
+    { "serie": "Lista de qua 18/11: primeiras horas", "palavras": "primeiras horas|first hours|first thing|primeira coisa|comecar|getting started|beginner|iniciante" },
+    { "serie": "Lista maior de sábado (easter eggs, NPCs, locais)", "palavras": "easter egg|segredo|secret|escondid|hidden|detalhe|detail|npc|local|location|lugar|misterio|mystery" },
+    { "serie": "GTA 5 x 6 (seg)", "palavras": "gta 5 (x|vs|versus|contra)|gta v vs|(vs|x|versus) gta 5|comparac|comparison|compared|o que mudou|mudanc|diferenc|differences|habitos do gta 5" },
+    { "serie": "Guia (seg a sex)", "palavras": "como |how to|guia|guide|dica|tips|dinheiro|money|rico|rich|melhor|best|onde encontrar|where to find|collectible|colecion|carros raros|rare car|arma|weapon" },
+    { "serie": "Desafio do Vicent (qua e dom)", "palavras": "desafio|challenge|mito|myth|testando|testing|sobrevive|survive|quebrar|ragdoll|fisica|physics" },
+    { "serie": "O Vicent jogou / Vale ou não vale (qui)", "palavras": "review|analise|vale a pena|worth it|impress|first impressions|nota|score|joguei|played" },
+    { "serie": "Jornal do Jacaré (sex)", "palavras": "noticia|news|trailer|lancamento|launch|pre-?load|pre-?download|tamanho|file size|preco|price|rockstar|confirm|vazou|leak|rumor|screenshot|imagens" }
+  ]
+}
