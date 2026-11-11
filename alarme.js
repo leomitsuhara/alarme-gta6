@@ -23,8 +23,8 @@ const gravar = (n, v) => fs.writeFileSync(ARQ(n), JSON.stringify(v, null, 1) + '
 const FONTES = lerJson('fontes.json');
 const CRONO = lerJson('cronograma.json', { regras: [] });
 const FILTRO = new RegExp(FONTES.filtro, 'i');
-const JANELA_YT_H = 96;      // um tema cruza se os vídeos saíram em até 4 dias
-const JANELA_NOT_H = 72;
+const JANELA_YT_H = 36;      // "desde ontem" (a dona pediu, 11/11/2026): 4 dias era muito tempo pro GTA 6
+const JANELA_NOT_H = 36;
 const GUARDA_DIAS = 10;      // itens e temas mais velhos saem dos arquivos
 const MIN_YOUTUBERS = 2;
 const MAX_AVISOS = 3;        // por rodada; o resto vai na seguinte

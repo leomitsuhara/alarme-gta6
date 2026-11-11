@@ -1,7 +1,7 @@
 # Alarme de pautas cruzadas do GTA 6
 
 Trocou o alarme de notícias em 11/11/2026, a pedido da dona: notícia sozinha não avisa mais. O alarme só toca no
-celular (app ntfy) quando **2 ou mais youtubers** fizeram o mesmo tema nos últimos 4 dias. Notícia de site entra só
+celular (app ntfy) quando **2 ou mais youtubers** fizeram o mesmo tema desde ontem (36 h). Notícia de site entra só
 pra reforçar ("2 youtubers + 1 notícia"). A ideia: ver o que já está dando certo e fazer a nossa versão.
 
 Roda no GitHub (`github.com/leomitsuhara/alarme-gta6`, público) a cada ~10 min, com o PC desligado. A cópia que vale
@@ -12,7 +12,7 @@ Roda no GitHub (`github.com/leomitsuhara/alarme-gta6`, público) a cada ~10 min,
    notícia. Só entra o que fala de GTA 6.
 2. O Gemini dá um TEMA pra cada vídeo/notícia nova (o mesmo nome pro mesmo assunto, em qualquer língua). Sem a chave
    ou se ele falhar, junta por palavra-chave (pega menos coisa, mas não para).
-3. Tema com 2+ youtubers diferentes e nunca avisado → aviso curto: o tema, quem fez, as visualizações, os links e a
+3. Tema com 2+ youtubers diferentes desde ontem e nunca avisado → aviso curto: o tema, quem fez, as visualizações, os links e a
    série do `CRONOGRAMA.md` (`cronograma.json`). Botões: Ver o mais visto, Ver o 2º, **Quero estudar**.
 4. "Quero estudar" vai pra `pedidos.json`. No PC: `node canal/automacao/estudar-pauta.js <tema>` monta a ficha.
 
