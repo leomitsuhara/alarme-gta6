@@ -318,6 +318,17 @@ async function principal() {
 
   const marcar = (p) => avisadas.push({ tema: p.tema, nome: p.nome, quando: new Date().toISOString(), itens: p.youtubers.map((i) => i.chave) });
   let falhou = false;
+
+  // Trava contra repetir: o que já chegou no celular nas últimas 24 h (pela reserva do PC, por exemplo) não toca de novo.
+  if (TOPICO && cruzadas.length) {
+    try {
+      const r = await fetch(`https://ntfy.sh/${TOPICO}/json?poll=1&since=24h`, { signal: AbortSignal.timeout(20000) });
+      const enviados = new Set((await r.text()).split('\n').filter(Boolean).map((l) => { try { return semAcento(JSON.parse(l).title || '').replace(/^teste · /, ''); } catch { return ''; } }));
+      for (let k = cruzadas.length - 1; k >= 0; k--) {
+        if (enviados.has(semAcento(montarAviso(cruzadas[k]).title))) { marcar(cruzadas[k]); cruzadas.splice(k, 1); }
+      }
+    } catch (erro) { console.log(`Histórico do ntfy não lido: ${erro.message}`); }
+  }
   if (args.has('--marcar')) {
     cruzadas.forEach(marcar);
     console.log(`Marquei ${cruzadas.length} pautas como já avisadas, sem avisar.`);
