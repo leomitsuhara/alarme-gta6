@@ -36,10 +36,13 @@ jobs:
             marcar) node alarme.js --marcar ;;
             *) node alarme.js ;;
           esac
+      - name: Pagina do celular (Bombando agora + Faz agora)
+        if: always()
+        run: node pagina-celular.js || true
       - name: Guardar o que ja viu e avisou
         if: always()
         run: |
           git config user.name "alarme"
           git config user.email "alarme@users.noreply.github.com"
-          for f in itens.json temas.json avisadas.json pedidos.json; do [ -f "$f" ] && git add "$f"; done
+          for f in itens.json temas.json avisadas.json pedidos.json docs/index.html; do [ -f "$f" ] && git add "$f"; done
           git diff --cached --quiet || (git commit -m "pautas" && git pull --rebase -q && git push)
