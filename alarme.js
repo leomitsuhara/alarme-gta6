@@ -315,7 +315,10 @@ async function principal() {
     pautas.push({ tema, nome, youtubers, noticias, serie: serieDoCronograma(nome, lista), forca: youtubers.length * 10 + noticias.length + Math.log10(1 + youtubers.reduce((s, i) => s + (i.views || 0), 0)) });
   }
   pautas.sort((a, b) => b.forca - a.forca);
-  const cruzadas = pautas.filter((p) => p.youtubers.length >= MIN_YOUTUBERS && !jaAvisado.has(p.tema) && !nomesAvisados.has(semAcento(p.nome)));
+  // 13/11/2026 (Conselho nota 8, dona): depois que o GTA 6 sai (18/11 8h de Brasília), 1 canal de GUIA sozinho já avisa
+  // (guia antecipa o que o público vai procurar). Antes disso continua a regra de 2+ youtubers.
+  const GUIA_SOZINHO = agora >= Date.parse('2026-11-18T08:00:00-03:00');
+  const cruzadas = pautas.filter((p) => (p.youtubers.length >= MIN_YOUTUBERS || (GUIA_SOZINHO && p.youtubers.some((i) => i.grupo === 'guia'))) && !jaAvisado.has(p.tema) && !nomesAvisados.has(semAcento(p.nome)));
 
   if (simular) {
     console.log('\nGrupos (os 15 mais fortes):');
