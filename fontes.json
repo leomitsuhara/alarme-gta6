@@ -212,8 +212,9 @@
       "nome": "Hunters CLan",
       "canal": "UCWg2LuDMRWZmMg_hxkLJxZg",
       "grupo": "br",
-      "aprovado": false,
-      "obs": "GTA BR 586 mil, 50 vídeos/30d; Conselho nota 8 (13/11); espera o sim da dona"
+      "aprovado": true,
+      "aprovadoEm": "2026-11-13 (dona, celular)",
+      "porque": "GTA BR 586 mil, 50 vídeos/30d; Conselho nota 8"
     },
     {
       "nome": "E-MasterSensei",
