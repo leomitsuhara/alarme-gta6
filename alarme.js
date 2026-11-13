@@ -267,8 +267,17 @@ async function principal() {
       if (it.data && agora - it.data > janela * 3600e3) continue;
       const chave = `${fonte.nome}|${it.id}`;
       const ja = porChave.get(chave);
-      if (ja) { if (it.views != null) ja.views = it.views; continue; }
-      const novo = { chave, fonte: fonte.nome, grupo: fonte.grupo, titulo: it.titulo.slice(0, 200), link: it.link, data: it.data, views: it.views, visto: agora, tema: null };
+      if (ja) {
+        if (it.views != null) {
+          ja.views = it.views;
+          // Curva de crescimento (painel, 12/11/2026): 1 ponto por hora nas primeiras 72 h do vídeo.
+          const h = ja.hist || (ja.hist = []);
+          const ult = h[h.length - 1];
+          if (agora - (ja.data || ja.visto) < 72 * 3600e3 && (!ult || agora - ult[0] >= 55 * 60e3)) h.push([agora, it.views]);
+        }
+        continue;
+      }
+      const novo = { chave, fonte: fonte.nome, grupo: fonte.grupo, titulo: it.titulo.slice(0, 200), link: it.link, data: it.data, views: it.views, visto: agora, tema: null, hist: it.views != null ? [[agora, it.views]] : [] };
       itens.push(novo); porChave.set(chave, novo);
     }
   }
