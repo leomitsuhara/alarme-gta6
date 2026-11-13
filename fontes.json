@@ -128,49 +128,55 @@
    "nome": "Zilino",
    "canal": "UC5x39gxZqL2ZwNWCgP1Nrgw",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "6,8 mil inscritos; \"GTA 6 Nova Gameplay Oficial\" 108 mil views (achado em 12/11/2026)"
+   "porque": "6,8 mil inscritos; \"GTA 6 Nova Gameplay Oficial\" 108 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   },
   {
    "nome": "Yami Bruno",
    "canal": "UCbL184SsFbT5aj-hVQJEsoA",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "13 mil inscritos; PS5 Pro modo performance 74 mil views (achado em 12/11/2026)"
+   "porque": "13 mil inscritos; PS5 Pro modo performance 74 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   },
   {
    "nome": "Icro",
    "canal": "UCHy71403poHeNiJdveY6iig",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "33 mil inscritos; \"Tu já pode baixar o GTA 6\" 210 mil views (achado em 12/11/2026)"
+   "porque": "33 mil inscritos; \"Tu já pode baixar o GTA 6\" 210 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   },
   {
    "nome": "CODENAME VI",
    "canal": "UCnNmfpJLIIeDlANPzNaRhJQ",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "9 mil inscritos, 42 vídeos; \"GTA 6 vai ser LENTO demais?\" 499 mil views (achado em 12/11/2026)"
+   "porque": "9 mil inscritos, 42 vídeos; \"GTA 6 vai ser LENTO demais?\" 499 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   },
   {
    "nome": "JTM",
    "canal": "UC0i0EU0bZeplcFewTUxaqPw",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "2 mil inscritos, 17 vídeos; \"GTA 6: o guia completo antes de jogar\" 534 mil views (achado em 12/11/2026)"
+   "porque": "2 mil inscritos, 17 vídeos; \"GTA 6: o guia completo antes de jogar\" 534 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   },
   {
    "nome": "NobertoGamer",
    "canal": "UCeLIjscrkJXuJajp-XsxvMw",
    "grupo": "br",
-   "aprovado": false,
+   "aprovado": true,
    "pequeno": true,
-   "porque": "86 mil inscritos; nova gameplay 43 mil views (achado em 12/11/2026)"
+   "porque": "86 mil inscritos; nova gameplay 43 mil views (achado em 12/11/2026)",
+   "aprovadoEm": "2026-11-12 (dona)"
   }
  ],
  "noticias": [
