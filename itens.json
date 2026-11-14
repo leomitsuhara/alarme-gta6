@@ -3607,5 +3607,77 @@
   "visto": 1794605093543,
   "tema": "t49",
   "hist": []
+ },
+ {
+  "chave": "IGN|cff7cf8c-d93e-4798-844b-1b1c0da0617f",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+  "link": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+  "data": 1794607822000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "t44",
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1958814",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+  "link": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+  "data": 1794603831000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "t52",
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1958800",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
+  "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
+  "data": 1794603754000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "fora",
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|75UqSJFjwCgkA3u8kjBhP9",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "Yes, some brave games are still launching on Steam during GTA 6 week",
+  "link": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+  "data": 1794608890000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "t53",
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=237483",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
+  "link": "https://insider-gaming.com/barbie-rewind-gta-6-release-window/",
+  "data": 1794612083000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "t53",
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/voxel/gta-6-vai-virar-filme-ceo-da-take-two-fala-sobre-possibilidade-de-levar-a-franquia-para-o-cinema/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vai-virar-filme-ceo-da-take-two-fala-sobre-possibilidade-de-levar-a-franquia-para-o-cinema/",
+  "data": 1794612600000,
+  "views": null,
+  "visto": 1794620001575,
+  "tema": "t54",
+  "hist": []
  }
 ]
