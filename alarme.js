@@ -243,7 +243,7 @@ async function principal() {
   }
 
   const fontes = [
-    ...FONTES.youtubers.filter((f) => f.aprovado !== false || (simular && args.has('--com-pendentes'))),
+    ...FONTES.youtubers.filter((f) => !f.inativo && (f.aprovado !== false || (simular && args.has('--com-pendentes')))),   // inativo = 7+ dias sem postar (criadores.js, dona 15/11)
     ...FONTES.noticias.map((f) => ({ ...f, grupo: 'noticia' })),
   ];
   const lidos = await Promise.all(fontes.map(async (fonte) => {
