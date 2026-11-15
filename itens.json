@@ -4628,5 +4628,41 @@
   "visto": 1794698612196,
   "tema": "t63",
   "hist": []
+ },
+ {
+  "chave": "IGN|d9bf4500-4286-4284-a34a-81b403d3ae96",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+  "link": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+  "data": 1794697209000,
+  "views": null,
+  "visto": 1794711348810,
+  "tema": "t57",
+  "hist": []
+ },
+ {
+  "chave": "Rockstar Intel|https://rockstarintel.com/?p=44451",
+  "fonte": "Rockstar Intel",
+  "grupo": "noticia",
+  "titulo": "GTA VI Is Still a Mystery Even to Grand Theft Auto’s Original Creators",
+  "link": "https://rockstarintel.com/gta-vi-is-still-a-mystery-even-to-grand-theft-autos-original-creators/",
+  "data": 1794700389000,
+  "views": null,
+  "visto": 1794711348810,
+  "tema": "t28",
+  "hist": []
+ },
+ {
+  "chave": "Ei Nerd|https://www.einerd.com/?p=225776",
+  "fonte": "Ei Nerd",
+  "grupo": "noticia",
+  "titulo": "GTA 6 deixará você ser o mocinho, diz Rockstar",
+  "link": "https://www.einerd.com/gta-6-empatia-bom-moco-rockstar-guardian/",
+  "data": 1794700800000,
+  "views": null,
+  "visto": 1794711348810,
+  "tema": "t25",
+  "hist": []
  }
 ]
