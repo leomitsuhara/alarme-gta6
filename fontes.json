@@ -24,7 +24,10 @@
     {
       "nome": "Honest Game Trailers",
       "canal": "UCf6J9yokPS0ys456jvjLBGQ",
-      "grupo": "gringo"
+      "grupo": "gringo",
+      "inativo": true,
+      "inativoDesde": "2026-11-15",
+      "motivo_inativo": "26 dias sem postar (regra da dona: mais de 7)"
     },
     {
       "nome": "GTA Series Videos",
@@ -34,7 +37,10 @@
     {
       "nome": "Hazardous",
       "canal": "UCgXfEXQBy0r4MywuzNf3iGQ",
-      "grupo": "gringo"
+      "grupo": "gringo",
+      "inativo": true,
+      "inativoDesde": "2026-11-15",
+      "motivo_inativo": "10 dias sem postar (regra da dona: mais de 7)"
     },
     {
       "nome": "Luke Stephens",
@@ -54,7 +60,10 @@
     {
       "nome": "PowerPyx",
       "canal": "UCWBA1-H9A5IldSb3tNwQmtQ",
-      "grupo": "guia"
+      "grupo": "guia",
+      "inativo": true,
+      "inativoDesde": "2026-11-15",
+      "motivo_inativo": "15 dias sem postar (regra da dona: mais de 7)"
     },
     {
       "nome": "MKIceAndFire",
@@ -221,6 +230,20 @@
       "canal": "UC3osN7-7XJq3NEoKZIUUx0w",
       "grupo": "gringo",
       "obs": "aprovado pela dona no celular em 2026-11-13 (estudo 24h) — canal em espanhol"
+    },
+    {
+      "nome": "FANTIZ GAMING",
+      "canal": "UCLlYA9UQwHKnri33vPQpuMw",
+      "grupo": "gringo",
+      "aprovado": true,
+      "origem": "estudo 24h, entrou 2026-11-15 (regra da dona)"
+    },
+    {
+      "nome": "Drifty",
+      "canal": "UC1dNe7FrJ9L911BQkybie5Q",
+      "grupo": "gringo",
+      "aprovado": true,
+      "origem": "estudo 24h, entrou 2026-11-15 (regra da dona)"
     }
   ],
   "noticias": [
