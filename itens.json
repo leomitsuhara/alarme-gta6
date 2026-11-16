@@ -4486,7 +4486,7 @@
   "titulo": "VAZOU a música de abertura do GTA 6?! #gta6 #shorts",
   "link": "https://www.youtube.com/shorts/ZtHLiSKsV3k",
   "data": 1794681954000,
-  "views": 9727,
+  "views": 10005,
   "visto": 1794685191072,
   "tema": "t57",
   "hist": [
@@ -4505,6 +4505,10 @@
    [
     1794779652888,
     9727
+   ],
+   [
+    1794792728871,
+    10005
    ]
   ]
  },
@@ -4954,7 +4958,7 @@
   "titulo": "NOVO GAMEPLAY do GTA 6 tem um DETALHE BEM INTERESSANTE… (Confira) #gta6",
   "link": "https://www.youtube.com/watch?v=8uQ4AhfTEnE",
   "data": 1794695779000,
-  "views": 107415,
+  "views": 116226,
   "visto": 1794738074631,
   "tema": "kw:detalhes",
   "hist": [
@@ -4969,6 +4973,10 @@
    [
     1794779652888,
     107415
+   ],
+   [
+    1794792728871,
+    116226
    ]
   ]
  },
@@ -5527,6 +5535,47 @@
   "views": null,
   "visto": 1794779652888,
   "tema": "kw:review",
+  "hist": []
+ },
+ {
+  "chave": "SanInPlay|or6trbsPuJM",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "CHEGOU! A SEMANA do GTA 6 COMEÇOU! - Ultimo Fim de Semana antes do LANÇAMENTO! (LIVE) #gta6",
+  "link": "https://www.youtube.com/watch?v=or6trbsPuJM",
+  "data": 1794783627000,
+  "views": 11013,
+  "visto": 1794792728871,
+  "tema": null,
+  "hist": [
+   [
+    1794792728871,
+    11013
+   ]
+  ]
+ },
+ {
+  "chave": "Ei Nerd|https://www.einerd.com/?p=225783",
+  "fonte": "Ei Nerd",
+  "grupo": "noticia",
+  "titulo": "GTA 6: Rockstar explica progressão de crimes e empatia na história",
+  "link": "https://www.einerd.com/gta-6-rockstar-explica-progressao-crimes-empatia/",
+  "data": 1794783600000,
+  "views": null,
+  "visto": 1794792728871,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/gta-6-e-mais-veja-os-lancamentos-de-games-da-semana/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "GTA 6 e mais! Veja os lançamentos de games da semana",
+  "link": "https://www.estadao.com.br/tecmundo/gta-6-e-mais-veja-os-lancamentos-de-games-da-semana/",
+  "data": 1794781800000,
+  "views": null,
+  "visto": 1794792728871,
+  "tema": null,
   "hist": []
  }
 ]
