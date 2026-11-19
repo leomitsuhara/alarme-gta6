@@ -650,17 +650,6 @@
   "tema": "t14"
  },
  {
-  "chave": "GTA BOOM|https://www.gtaboom.com/unverified-claim-puts-gta-6-credits-at-over-80-minutes-564d",
-  "fonte": "GTA BOOM",
-  "grupo": "noticia",
-  "titulo": "GTA 6 Credits Rumored to Run More Than 80 Minutes",
-  "link": "https://www.gtaboom.com/unverified-claim-puts-gta-6-credits-at-over-80-minutes-564d",
-  "data": 1794181818000,
-  "views": null,
-  "visto": 1794437250301,
-  "tema": "t21"
- },
- {
   "chave": "Rockstar Intel|https://rockstarintel.com/?p=44343",
   "fonte": "Rockstar Intel",
   "grupo": "noticia",
@@ -1044,17 +1033,6 @@
   "views": 64170,
   "visto": 1794437580525,
   "tema": "t5"
- },
- {
-  "chave": "SanInPlay|_2GEr6TO1Lo",
-  "fonte": "SanInPlay",
-  "grupo": "br",
-  "titulo": "GTA 6: VAZ0U o QUE VEM NA CAIXA da VERSÃO FÍSICA! (Vem com o Mapa?) #gta6",
-  "link": "https://www.youtube.com/watch?v=_2GEr6TO1Lo",
-  "data": 1794175944000,
-  "views": 129964,
-  "visto": 1794437580525,
-  "tema": "t36"
  },
  {
   "chave": "Marlon XGamer|cAJ9onAQbk0",
@@ -7220,13 +7198,17 @@
   "titulo": "GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K ULTRA HD PS5 PRO] No Commentary",
   "link": "https://www.youtube.com/watch?v=BGUTv2K_SWs",
   "data": 1794921199000,
-  "views": 0,
+  "views": 1915796,
   "visto": 1794943655156,
   "tema": null,
   "hist": [
    [
     1794943655156,
     0
+   ],
+   [
+    1795047560205,
+    1915796
    ]
   ]
  },
@@ -7258,7 +7240,7 @@
   "titulo": "Live de Abertura e INICIO do GTA 6 | PT-BR",
   "link": "https://www.youtube.com/watch?v=EOCwuRqEXxU",
   "data": 1794919016000,
-  "views": 34580,
+  "views": 35517,
   "visto": 1794943655156,
   "tema": null,
   "hist": [
@@ -7269,6 +7251,10 @@
    [
     1795025337661,
     34580
+   ],
+   [
+    1795047560205,
+    35517
    ]
   ]
  },
@@ -7279,7 +7265,7 @@
   "titulo": "GTA 6 É AGORA , O INICIO DA GAMEPLAY",
   "link": "https://www.youtube.com/watch?v=x50ONQrBPRM",
   "data": 1794941134000,
-  "views": 0,
+  "views": 9835912,
   "visto": 1794943655156,
   "tema": null,
   "hist": [
@@ -7290,6 +7276,10 @@
    [
     1794966427745,
     0
+   ],
+   [
+    1795047560205,
+    9835912
    ]
   ]
  },
@@ -8560,7 +8550,7 @@
   "titulo": "🔴LIVE: (SEM SPOILER) GAMEPLAY AO VIVO DO GTA 6! Explorando TUDO do MAPA FINALMENTE!",
   "link": "https://www.youtube.com/watch?v=yd_QPOWHiTA",
   "data": 1794956650000,
-  "views": 0,
+  "views": 37594,
   "visto": 1794966427745,
   "tema": "kw:mapa",
   "hist": [
@@ -8571,6 +8561,10 @@
    [
     1794993338399,
     0
+   ],
+   [
+    1795047560205,
+    37594
    ]
   ]
  },
@@ -8941,13 +8935,17 @@
   "titulo": "GTA 6 - 100% Walkthrough Part 1 | 4K Livestream [No Commentary]",
   "link": "https://www.youtube.com/watch?v=ysbqpxsaDb0",
   "data": 1794976647000,
-  "views": 0,
+  "views": 875526,
   "visto": 1794993338399,
   "tema": null,
   "hist": [
    [
     1794993338399,
     0
+   ],
+   [
+    1795047560205,
+    875526
    ]
   ]
  },
@@ -8992,13 +8990,17 @@
   "titulo": "GTA 6: LIVE DE LANÇAMENTO! Jogando pela Primeira Vez",
   "link": "https://www.youtube.com/watch?v=uYd25-4uXqs",
   "data": 1794981086000,
-  "views": 0,
+  "views": 588,
   "visto": 1794993338399,
   "tema": null,
   "hist": [
    [
     1794993338399,
     0
+   ],
+   [
+    1795047560205,
+    588
    ]
   ]
  },
@@ -9026,7 +9028,7 @@
   "titulo": "Finally Playing GTA 6 LIVE 🔴| FIRST GTA 6 Gameplay!",
   "link": "https://www.youtube.com/watch?v=QUPWeHCiIw8",
   "data": 1794992265000,
-  "views": 51119,
+  "views": 60533,
   "visto": 1794993338399,
   "tema": null,
   "hist": [
@@ -9037,6 +9039,10 @@
    [
     1795025337661,
     51119
+   ],
+   [
+    1795047560205,
+    60533
    ]
   ]
  },
@@ -9152,13 +9158,17 @@
   "titulo": "GTA 6 - Before You Buy",
   "link": "https://www.youtube.com/watch?v=vVVIWEGciKk",
   "data": 1795016871000,
-  "views": 86395,
+  "views": 2477947,
   "visto": 1795025337661,
   "tema": "kw:antes",
   "hist": [
    [
     1795025337661,
     86395
+   ],
+   [
+    1795047560205,
+    2477947
    ]
   ]
  },
@@ -9169,13 +9179,17 @@
   "titulo": "GTA 6 Reviews Are Completely INSANE...",
   "link": "https://www.youtube.com/watch?v=nnh6VhI2jBA",
   "data": 1795010726000,
-  "views": 18794,
+  "views": 56128,
   "visto": 1795025337661,
   "tema": "kw:review",
   "hist": [
    [
     1795025337661,
     18794
+   ],
+   [
+    1795047560205,
+    56128
    ]
   ]
  },
@@ -9186,13 +9200,17 @@
   "titulo": "GTA 6 - PS5 vs PS5 Pro 4K Gameplay & Graphics Comparison",
   "link": "https://www.youtube.com/watch?v=ibci52pbqhQ",
   "data": 1795010429000,
-  "views": 44117,
+  "views": 159570,
   "visto": 1795025337661,
   "tema": "kw:gta5x6",
   "hist": [
    [
     1795025337661,
     44117
+   ],
+   [
+    1795047560205,
+    159570
    ]
   ]
  },
@@ -9203,13 +9221,17 @@
   "titulo": "GTA 6 - First Skunk Ape Encounter (Florida's Bigfoot)",
   "link": "https://www.youtube.com/watch?v=D7KLT5aMvvk",
   "data": 1795024115000,
-  "views": 1159,
+  "views": 26351,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     1159
+   ],
+   [
+    1795047560205,
+    26351
    ]
   ]
  },
@@ -9220,13 +9242,17 @@
   "titulo": "GTA 6 Mission #1 - Gone Fishing (Chapter 1) [Full Walkthrough – PS5 4K]",
   "link": "https://www.youtube.com/watch?v=ejIdp8axfhY",
   "data": 1795018613000,
-  "views": 5279,
+  "views": 59827,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     5279
+   ],
+   [
+    1795047560205,
+    59827
    ]
   ]
  },
@@ -9237,13 +9263,17 @@
   "titulo": "GTA 6 - Prologue [Full Walkthrough – PS5 4K]",
   "link": "https://www.youtube.com/watch?v=Zh6VrJuW_i8",
   "data": 1795017324000,
-  "views": 6902,
+  "views": 105594,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     6902
+   ],
+   [
+    1795047560205,
+    105594
    ]
   ]
  },
@@ -9254,13 +9284,17 @@
   "titulo": "GTA 6 - Opening Intro & Theme Song [PS5 4K]",
   "link": "https://www.youtube.com/watch?v=67bMQXpy0As",
   "data": 1795005171000,
-  "views": 124299,
+  "views": 254751,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     124299
+   ],
+   [
+    1795047560205,
+    254751
    ]
   ]
  },
@@ -9271,13 +9305,17 @@
   "titulo": "He’s the goodest boy of them all… Subscribe for more GTA 6!",
   "link": "https://www.youtube.com/shorts/Lnlg6fCfy1o",
   "data": 1795023972000,
-  "views": 2151,
+  "views": 36692,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     2151
+   ],
+   [
+    1795047560205,
+    36692
    ]
   ]
  },
@@ -9288,13 +9326,17 @@
   "titulo": "So I tried Grand Theft Auto VI… Subscribe for more GTA 6 Content!",
   "link": "https://www.youtube.com/shorts/Hg87MIQ_0x4",
   "data": 1795022907000,
-  "views": 5321,
+  "views": 63845,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     5321
+   ],
+   [
+    1795047560205,
+    63845
    ]
   ]
  },
@@ -9339,13 +9381,17 @@
   "titulo": "GTA 6 - Do These 15 Things FIRST",
   "link": "https://www.youtube.com/watch?v=iBs-wMYMd9k",
   "data": 1795015825000,
-  "views": 8503,
+  "views": 154721,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     8503
+   ],
+   [
+    1795047560205,
+    154721
    ]
   ]
  },
@@ -9373,13 +9419,17 @@
   "titulo": "GTA 6 - Getting Down And Dirty Scene 4K Ultra HD",
   "link": "https://www.youtube.com/watch?v=rtZ1B4LiRG4",
   "data": 1795023669000,
-  "views": 2102,
+  "views": 69527,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     2102
+   ],
+   [
+    1795047560205,
+    69527
    ]
   ]
  },
@@ -9390,13 +9440,17 @@
   "titulo": "GTA 6 - Big Foot First Random Encounter",
   "link": "https://www.youtube.com/watch?v=T5WHfOE36k0",
   "data": 1795011747000,
-  "views": 9770,
+  "views": 19360,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     9770
+   ],
+   [
+    1795047560205,
+    19360
    ]
   ]
  },
@@ -9407,13 +9461,17 @@
   "titulo": "Grand Theft Auto 6 (GTA 6) Intro Cutscene",
   "link": "https://www.youtube.com/watch?v=eJZ6RnDxYHM",
   "data": 1795004367000,
-  "views": 37131,
+  "views": 46786,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     37131
+   ],
+   [
+    1795047560205,
+    46786
    ]
   ]
  },
@@ -9424,13 +9482,17 @@
   "titulo": "GTA 6 - Lucia Gets Out of Prison (4K 60FPS)",
   "link": "https://www.youtube.com/watch?v=VNHJmHTuV4M",
   "data": 1795019174000,
-  "views": 4970,
+  "views": 42737,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     4970
+   ],
+   [
+    1795047560205,
+    42737
    ]
   ]
  },
@@ -9441,13 +9503,17 @@
   "titulo": "GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K ULTRA HD PS5 PRO] No Commentary",
   "link": "https://www.youtube.com/watch?v=42f6LTXqss0",
   "data": 1795010746000,
-  "views": 116407,
+  "views": 469251,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     116407
+   ],
+   [
+    1795047560205,
+    469251
    ]
   ]
  },
@@ -9458,13 +9524,17 @@
   "titulo": "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!",
   "link": "https://www.youtube.com/watch?v=AA3sv6usKBg",
   "data": 1795015751000,
-  "views": 25169,
+  "views": 145103,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     25169
+   ],
+   [
+    1795047560205,
+    145103
    ]
   ]
  },
@@ -9482,6 +9552,10 @@
    [
     1795025337661,
     0
+   ],
+   [
+    1795047560205,
+    0
    ]
   ]
  },
@@ -9492,13 +9566,17 @@
   "titulo": "GTA 6: EXPLORANDO FLORESTAS, ESTRADAS e CIDADES do MOUNT KALAGA e de AMBROSIA! #gta6",
   "link": "https://www.youtube.com/watch?v=97mj0GXP43o",
   "data": 1795023577000,
-  "views": 454,
+  "views": 7707,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     454
+   ],
+   [
+    1795047560205,
+    7707
    ]
   ]
  },
@@ -9509,13 +9587,17 @@
   "titulo": "GTA 6: EXPLORANDO a PRAIA de VICE CITY e o MAR! (Tá Incrível!) #gta6",
   "link": "https://www.youtube.com/watch?v=SXmmcmKOzuc",
   "data": 1795017814000,
-  "views": 1795,
+  "views": 13174,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     1795
+   ],
+   [
+    1795047560205,
+    13174
    ]
   ]
  },
@@ -9526,13 +9608,17 @@
   "titulo": "GTA 6: SOBREVOANDO SOBRE VICE CITY! O MAPA é GIGANTE e SIMPLESMENTE ABSURDO! #gta6",
   "link": "https://www.youtube.com/watch?v=JexsYvhix14",
   "data": 1795014440000,
-  "views": 4499,
+  "views": 12259,
   "visto": 1795025337661,
   "tema": "kw:mapa",
   "hist": [
    [
     1795025337661,
     4499
+   ],
+   [
+    1795047560205,
+    12259
    ]
   ]
  },
@@ -9543,13 +9629,17 @@
   "titulo": "CHEGOU o DIA! Jogando GTA 6 pela PRIMEIRA VEZ... - 24 HORAS de LIVE 4k (Sem Spoilers)",
   "link": "https://www.youtube.com/watch?v=d_gHQEvLU_A",
   "data": 1795011916000,
-  "views": 120460,
+  "views": 228412,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     120460
+   ],
+   [
+    1795047560205,
+    228412
    ]
   ]
  },
@@ -9560,13 +9650,17 @@
   "titulo": "GTA 6: CONHECENDO A CASA DO JASON e TODOS os seus DETALHES! #gta6",
   "link": "https://www.youtube.com/watch?v=TFAeNK8vEu4",
   "data": 1795008893000,
-  "views": 5897,
+  "views": 8344,
   "visto": 1795025337661,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795025337661,
     5897
+   ],
+   [
+    1795047560205,
+    8344
    ]
   ]
  },
@@ -9577,13 +9671,17 @@
   "titulo": "A PRIMEIRA HORA DO GTA 6 | PRIMEIRAS IMPRESSÕES | GAMESNOOK",
   "link": "https://www.youtube.com/watch?v=gnftlOQ3sPw",
   "data": 1795019958000,
-  "views": 131,
+  "views": 1350,
   "visto": 1795025337661,
   "tema": "kw:review",
   "hist": [
    [
     1795025337661,
     131
+   ],
+   [
+    1795047560205,
+    1350
    ]
   ]
  },
@@ -9594,13 +9692,17 @@
   "titulo": "INICIO DO GTA 6",
   "link": "https://www.youtube.com/shorts/nUuOheKINQo",
   "data": 1795016737000,
-  "views": 567,
+  "views": 1121,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     567
+   ],
+   [
+    1795047560205,
+    1121
    ]
   ]
  },
@@ -9611,13 +9713,17 @@
   "titulo": "DETALHE ABSURDO QUE A ROCKSTAR COLOCOU NO GTA 6",
   "link": "https://www.youtube.com/shorts/CB1Pbleb_B0",
   "data": 1795023605000,
-  "views": 431,
+  "views": 29093,
   "visto": 1795025337661,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795025337661,
     431
+   ],
+   [
+    1795047560205,
+    29093
    ]
   ]
  },
@@ -9696,13 +9802,17 @@
   "titulo": "JOGANDO PLAYSTATION 5 DENTRO DO GTA 6 Parte 4",
   "link": "https://www.youtube.com/watch?v=kLhlJRjSyQs",
   "data": 1795023739000,
-  "views": 1418,
+  "views": 36609,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     1418
+   ],
+   [
+    1795047560205,
+    36609
    ]
   ]
  },
@@ -9713,13 +9823,17 @@
   "titulo": "GTA 6 - Explorando o FUNDO DO MAR pela primeira vez (INCRÍVEL)",
   "link": "https://www.youtube.com/watch?v=cQxDHrld-QU",
   "data": 1795019143000,
-  "views": 4295,
+  "views": 42958,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     4295
+   ],
+   [
+    1795047560205,
+    42958
    ]
   ]
  },
@@ -9730,13 +9844,17 @@
   "titulo": "GTA 6 - Cobrando o ALUGUEL Parte 2",
   "link": "https://www.youtube.com/watch?v=cEhzNxgE_TM",
   "data": 1795017325000,
-  "views": 9098,
+  "views": 55174,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     9098
+   ],
+   [
+    1795047560205,
+    55174
    ]
   ]
  },
@@ -9747,13 +9865,17 @@
   "titulo": "GTA 6 - O que tem no FIM DO MUNDO (decepcionante)",
   "link": "https://www.youtube.com/watch?v=-p9V4ivrBnI",
   "data": 1795014028000,
-  "views": 65569,
+  "views": 189123,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     65569
+   ],
+   [
+    1795047560205,
+    189123
    ]
   ]
  },
@@ -9764,13 +9886,17 @@
   "titulo": "ABRINDO O GTA 6 PELA PRIMEIRA VEZ!",
   "link": "https://www.youtube.com/shorts/1QhThSXcFcY",
   "data": 1795013941000,
-  "views": 17663,
+  "views": 46422,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     17663
+   ],
+   [
+    1795047560205,
+    46422
    ]
   ]
  },
@@ -9781,13 +9907,17 @@
   "titulo": "GTA 6 - EXPLORANDO a casa do JASON",
   "link": "https://www.youtube.com/watch?v=I4t3oYrytWQ",
   "data": 1795012838000,
-  "views": 51382,
+  "views": 125898,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     51382
+   ],
+   [
+    1795047560205,
+    125898
    ]
   ]
  },
@@ -9798,13 +9928,17 @@
   "titulo": "GTA 6 - O INÍCIO do gameplay do Davy Jones",
   "link": "https://www.youtube.com/watch?v=chge7GrCNc0",
   "data": 1795006840000,
-  "views": 174441,
+  "views": 550933,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     174441
+   ],
+   [
+    1795047560205,
+    550933
    ]
   ]
  },
@@ -9815,13 +9949,17 @@
   "titulo": "HISTÓRICO: GTA 6 ESTÁ COM NOTA 99 NO METACRITIC",
   "link": "https://www.youtube.com/watch?v=pmR8ZtuEQJc",
   "data": 1795013311000,
-  "views": 14967,
+  "views": 48762,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     14967
+   ],
+   [
+    1795047560205,
+    48762
    ]
   ]
  },
@@ -9832,13 +9970,17 @@
   "titulo": "NOVAS ATIVIDADES EM GTA 6 #gta #gta6",
   "link": "https://www.youtube.com/shorts/kQI2mv4INmw",
   "data": 1795006822000,
-  "views": 376,
+  "views": 695,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     376
+   ],
+   [
+    1795047560205,
+    695
    ]
   ]
  },
@@ -9866,13 +10008,17 @@
   "titulo": "COMO É O FUNDO DO MAR NO GTA 6?",
   "link": "https://www.youtube.com/watch?v=NalvJJ_K5UE",
   "data": 1795023597000,
-  "views": 592,
+  "views": 9054,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     592
+   ],
+   [
+    1795047560205,
+    9054
    ]
   ]
  },
@@ -9883,13 +10029,17 @@
   "titulo": "GTA 6: O PRIMEIRO ASSALTO",
   "link": "https://www.youtube.com/watch?v=w0_OAlRNVs8",
   "data": 1795022036000,
-  "views": 1000,
+  "views": 7665,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     1000
+   ],
+   [
+    1795047560205,
+    7665
    ]
   ]
  },
@@ -9900,13 +10050,17 @@
   "titulo": "O FIM DO MUNDO SEM GRAÇA DO GTA 6",
   "link": "https://www.youtube.com/watch?v=2JzR4_pETEg",
   "data": 1795013467000,
-  "views": 12714,
+  "views": 33677,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     12714
+   ],
+   [
+    1795047560205,
+    33677
    ]
   ]
  },
@@ -9917,13 +10071,17 @@
   "titulo": "EXPLORANDO A CASA DO JASON NO GTA 6",
   "link": "https://www.youtube.com/watch?v=8YygZCJYq6s",
   "data": 1795010439000,
-  "views": 7565,
+  "views": 15107,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     7565
+   ],
+   [
+    1795047560205,
+    15107
    ]
   ]
  },
@@ -9934,13 +10092,17 @@
   "titulo": "A PRIMEIRA GAMEPLAY DE GTA 6 DO DAVY JONES",
   "link": "https://www.youtube.com/watch?v=aqVFXHDqa1o",
   "data": 1795008500000,
-  "views": 14165,
+  "views": 34090,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     14165
+   ],
+   [
+    1795047560205,
+    34090
    ]
   ]
  },
@@ -9968,13 +10130,17 @@
   "titulo": "GTA 6 O JATO MILITAR DERRUBOU MEU AVIÃO",
   "link": "https://www.youtube.com/shorts/Z0AyWenD8I8",
   "data": 1795024299000,
-  "views": 7,
+  "views": 127,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     7
+   ],
+   [
+    1795047560205,
+    127
    ]
   ]
  },
@@ -9985,13 +10151,17 @@
   "titulo": "GTA 6 A PRAIA E O NOVO ARPÃO (SEM SPOILER)",
   "link": "https://www.youtube.com/watch?v=Y0_-zZZLQh4",
   "data": 1795017501000,
-  "views": 46,
+  "views": 144,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     46
+   ],
+   [
+    1795047560205,
+    144
    ]
   ]
  },
@@ -10002,13 +10172,17 @@
   "titulo": "GTA 6 Inicio de Gameplay Prologo Completo",
   "link": "https://www.youtube.com/watch?v=V3n4PE356nM",
   "data": 1795014475000,
-  "views": 56,
+  "views": 79,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     56
+   ],
+   [
+    1795047560205,
+    79
    ]
   ]
  },
@@ -10036,13 +10210,17 @@
   "titulo": "O GTA 6 QUEBROU MAIS UM RECORDE! QUE ABSURDO",
   "link": "https://www.youtube.com/shorts/GBqgTl5nAbk",
   "data": 1795012380000,
-  "views": 2495,
+  "views": 4439,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     2495
+   ],
+   [
+    1795047560205,
+    4439
    ]
   ]
  },
@@ -10053,13 +10231,17 @@
   "titulo": "GTA 6 - Buck Me (Set Up Bank Account) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=h8Rg8xBXPpU",
   "data": 1795024803000,
-  "views": 1,
+  "views": 356,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     1
+   ],
+   [
+    1795047560205,
+    356
    ]
   ]
  },
@@ -10070,13 +10252,17 @@
   "titulo": "GTA 6 - Clean Up After Donnie (Donnie’s Drop) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=dSIA72MIWK4",
   "data": 1795024504000,
-  "views": 5,
+  "views": 206,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     5
+   ],
+   [
+    1795047560205,
+    206
    ]
   ]
  },
@@ -10087,13 +10273,17 @@
   "titulo": "GTA 6 - Buy Stuff for Lucia - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=bVFpGcP31oY",
   "data": 1795024051000,
-  "views": 12,
+  "views": 222,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     12
+   ],
+   [
+    1795047560205,
+    222
    ]
   ]
  },
@@ -10308,13 +10498,17 @@
   "titulo": "Island Dreams – GTA 6",
   "link": "https://www.youtube.com/watch?v=tiETWamDSRM",
   "data": 1795022541000,
-  "views": 41,
+  "views": 769,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     41
+   ],
+   [
+    1795047560205,
+    769
    ]
   ]
  },
@@ -10325,13 +10519,17 @@
   "titulo": "Hey Arnold! – GTA 6",
   "link": "https://www.youtube.com/watch?v=FCQ9Pqnsxe8",
   "data": 1795018954000,
-  "views": 48,
+  "views": 403,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     48
+   ],
+   [
+    1795047560205,
+    403
    ]
   ]
  },
@@ -10342,13 +10540,17 @@
   "titulo": "Get Shirley’s Rum – GTA 6",
   "link": "https://www.youtube.com/watch?v=b3juUPnNgPg",
   "data": 1795016057000,
-  "views": 168,
+  "views": 729,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     168
+   ],
+   [
+    1795047560205,
+    729
    ]
   ]
  },
@@ -10359,13 +10561,17 @@
   "titulo": "Unwanted Attention – GTA 6",
   "link": "https://www.youtube.com/watch?v=7eqRLfm_moU",
   "data": 1795015071000,
-  "views": 126,
+  "views": 421,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     126
+   ],
+   [
+    1795047560205,
+    421
    ]
   ]
  },
@@ -10376,13 +10582,17 @@
   "titulo": "Pipework – GTA 6",
   "link": "https://www.youtube.com/watch?v=6_vKluBuLu0",
   "data": 1795013081000,
-  "views": 204,
+  "views": 316,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     204
+   ],
+   [
+    1795047560205,
+    316
    ]
   ]
  },
@@ -10393,13 +10603,17 @@
   "titulo": "Lab Fees – GTA 6",
   "link": "https://www.youtube.com/watch?v=EOhf455dt8s",
   "data": 1795010834000,
-  "views": 188,
+  "views": 275,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     188
+   ],
+   [
+    1795047560205,
+    275
    ]
   ]
  },
@@ -10410,13 +10624,17 @@
   "titulo": "Just a Scratch – GTA 6",
   "link": "https://www.youtube.com/watch?v=85dBcQjOfSQ",
   "data": 1795010829000,
-  "views": 183,
+  "views": 278,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     183
+   ],
+   [
+    1795047560205,
+    278
    ]
   ]
  },
@@ -10478,13 +10696,17 @@
   "titulo": "10 Mistakes That Could Ruin Your First Day in GTA 6",
   "link": "https://www.youtube.com/watch?v=6iyYoU7y6Ks",
   "data": 1795020035000,
-  "views": 6799,
+  "views": 116787,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     6799
+   ],
+   [
+    1795047560205,
+    116787
    ]
   ]
  },
@@ -10495,13 +10717,17 @@
   "titulo": "Jugando GTA 6 antes que Nadie... 🌴🤫",
   "link": "https://www.youtube.com/shorts/KxhHAUbiOZA",
   "data": 1795019825000,
-  "views": 54643,
+  "views": 482443,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     54643
+   ],
+   [
+    1795047560205,
+    482443
    ]
   ]
  },
@@ -10512,13 +10738,17 @@
   "titulo": "GTA 6 has 130 Stunt Jumps",
   "link": "https://www.youtube.com/shorts/ekwKH8rd_jA",
   "data": 1795008507000,
-  "views": 5745,
+  "views": 9687,
   "visto": 1795025337661,
   "tema": null,
   "hist": [
    [
     1795025337661,
     5745
+   ],
+   [
+    1795047560205,
+    9687
    ]
   ]
  },
@@ -10529,13 +10759,17 @@
   "titulo": "What happens when you reach the edge of the GTA 6 map?",
   "link": "https://www.youtube.com/shorts/NuA_Rl02ytQ",
   "data": 1795006924000,
-  "views": 124801,
+  "views": 195198,
   "visto": 1795025337661,
   "tema": "kw:mapa",
   "hist": [
    [
     1795025337661,
     124801
+   ],
+   [
+    1795047560205,
+    195198
    ]
   ]
  },
@@ -10546,13 +10780,17 @@
   "titulo": "SEM SPOILER! COMO PLATINAR GTA VI - TODOS OS TROFÉUS, TEMPO E DIFICULDADE EM DETALHES",
   "link": "https://www.youtube.com/watch?v=nuxKtHCpLdg",
   "data": 1795014130000,
-  "views": 2608,
+  "views": 8781,
   "visto": 1795025337661,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795025337661,
     2608
+   ],
+   [
+    1795047560205,
+    8781
    ]
   ]
  },
@@ -11850,6 +12088,2364 @@
   "views": null,
   "visto": 1795025337661,
   "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "WhatCulture Gaming|royPNQ4V1VU",
+  "fonte": "WhatCulture Gaming",
+  "grupo": "gringo",
+  "titulo": "The Internet Is Reacting Crazy To FINALLY Playing GTA 6",
+  "link": "https://www.youtube.com/watch?v=royPNQ4V1VU",
+  "data": 1795042928000,
+  "views": 932,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    932
+   ]
+  ]
+ },
+ {
+  "chave": "Arekkz Gaming|E1gMkGMnGAY",
+  "fonte": "Arekkz Gaming",
+  "grupo": "gringo",
+  "titulo": "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)",
+  "link": "https://www.youtube.com/watch?v=E1gMkGMnGAY",
+  "data": 1795025708000,
+  "views": 7741,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    7741
+   ]
+  ]
+ },
+ {
+  "chave": "GTA Series Videos|m2APlrqUlqY",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #6 - Unwanted Attention (Chapter 1) [Full Walkthrough – PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=m2APlrqUlqY",
+  "data": 1795042817000,
+  "views": 4381,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    4381
+   ]
+  ]
+ },
+ {
+  "chave": "GTA Series Videos|A_UeksX3Is0",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #5 - Just a Scratch (Chapter 1) [Full Walkthrough – PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=A_UeksX3Is0",
+  "data": 1795039846000,
+  "views": 5401,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    5401
+   ]
+  ]
+ },
+ {
+  "chave": "GTA Series Videos|IcmQT-rZoIw",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #4 - Lab Fees (Chapter 1) [Full Walkthrough – PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=IcmQT-rZoIw",
+  "data": 1795034406000,
+  "views": 15304,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    15304
+   ]
+  ]
+ },
+ {
+  "chave": "GTA Series Videos|Lb6JyzX5gho",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #3 - Gear Up (Chapter 1) [Full Walkthrough – PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=Lb6JyzX5gho",
+  "data": 1795031112000,
+  "views": 27142,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    27142
+   ]
+  ]
+ },
+ {
+  "chave": "Luke Stephens|MeTmJEJIO-I",
+  "fonte": "Luke Stephens",
+  "grupo": "gringo",
+  "titulo": "I tried 'GTA 6'... [No Spoilers]",
+  "link": "https://www.youtube.com/watch?v=MeTmJEJIO-I",
+  "data": 1795032777000,
+  "views": 125253,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    125253
+   ]
+  ]
+ },
+ {
+  "chave": "Luke Stephens|zK2fsfGHe3Y",
+  "fonte": "Luke Stephens",
+  "grupo": "gringo",
+  "titulo": "Grand Theft Auto VI just did the impossible… Subscribe for more GTA VI News!",
+  "link": "https://www.youtube.com/shorts/zK2fsfGHe3Y",
+  "data": 1795028445000,
+  "views": 41028,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    41028
+   ]
+  ]
+ },
+ {
+  "chave": "GamingBolt|r2FMkHU6Jtk",
+  "fonte": "GamingBolt",
+  "grupo": "gringo",
+  "titulo": "Grand Theft Auto 6 Graphics Tech Detailed - Unlike Anything We've Seen [A Big Jump From GTA 5]",
+  "link": "https://www.youtube.com/watch?v=r2FMkHU6Jtk",
+  "data": 1795026610000,
+  "views": 79239,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    79239
+   ]
+  ]
+ },
+ {
+  "chave": "MKIceAndFire|YDNs_sPEcJc",
+  "fonte": "MKIceAndFire",
+  "grupo": "guia",
+  "titulo": "GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K PS5 PRO] - No Commentary",
+  "link": "https://www.youtube.com/watch?v=YDNs_sPEcJc",
+  "data": 1795026220000,
+  "views": 1032841,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1032841
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|F4Vp81sFSg4",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 All Cutscenes (PART 2) Game Movie 4K PS5 Pro Ultra HD",
+  "link": "https://www.youtube.com/watch?v=F4Vp81sFSg4",
+  "data": 1795044130000,
+  "views": 1812,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1812
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|byDw86z-oZo",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 All Cutscenes (PART 1) Game Movie 4K PS5 Pro Ultra HD",
+  "link": "https://www.youtube.com/watch?v=byDw86z-oZo",
+  "data": 1795033368000,
+  "views": 21138,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    21138
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|N9PzXmQAX1U",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Jason And Cal Party Like Rock Stars 4K Ultra HD",
+  "link": "https://www.youtube.com/watch?v=N9PzXmQAX1U",
+  "data": 1795029362000,
+  "views": 6375,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    6375
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|R55EMh-MsFM",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 Gameplay Walkthrough Part 2 FULL GAME [4K ULTRA HD PS5 PRO] No Commentary",
+  "link": "https://www.youtube.com/watch?v=R55EMh-MsFM",
+  "data": 1795042822000,
+  "views": 4840,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    4840
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|HNOEqOpW9Mk",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Jason Becomes A Stripper (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=HNOEqOpW9Mk",
+  "data": 1795039248000,
+  "views": 6348,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    6348
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|haRxuNKGz7g",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Hospital Escape Scene (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=haRxuNKGz7g",
+  "data": 1795034661000,
+  "views": 7657,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    7657
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|idpteNT5qxg",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Lucia Home Invasion Fight Scene (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=idpteNT5qxg",
+  "data": 1795029328000,
+  "views": 13273,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    13273
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|j1MYkkr35-U",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Jason & Lucia Go To Nightclub In Vice City (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=j1MYkkr35-U",
+  "data": 1795027515000,
+  "views": 13434,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    13434
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|NZ7crRUxvNM",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Supercar Racing Gameplay (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=NZ7crRUxvNM",
+  "data": 1795025199000,
+  "views": 11548,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    11548
+   ]
+  ]
+ },
+ {
+  "chave": "BelotoPlays|S__UQHgTJ4I",
+  "fonte": "BelotoPlays",
+  "grupo": "br",
+  "titulo": "COMO FUNCIONA O POSTO DE GASOLINA DO GTA 6! ABASTECENDO CARRO ELÉTRICO, LOJAS E TESTE DE COMBUSTÍVEL",
+  "link": "https://www.youtube.com/watch?v=S__UQHgTJ4I",
+  "data": 1795040584000,
+  "views": 1454,
+  "visto": 1795047560205,
+  "tema": "kw:carros",
+  "hist": [
+   [
+    1795047560205,
+    1454
+   ]
+  ]
+ },
+ {
+  "chave": "BelotoPlays|c-15fTE2IHw",
+  "fonte": "BelotoPlays",
+  "grupo": "br",
+  "titulo": "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!",
+  "link": "https://www.youtube.com/watch?v=c-15fTE2IHw",
+  "data": 1795031789000,
+  "views": 4891,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    4891
+   ]
+  ]
+ },
+ {
+  "chave": "BelotoPlays|DQte_YkKzBs",
+  "fonte": "BelotoPlays",
+  "grupo": "br",
+  "titulo": "A PRIMEIRA MISSÃO E O INÍCIO DA HISTÓRIA DO GTA 6! (COMO ELES SE CONHECERAM, CARROS E AVIÃO!)",
+  "link": "https://www.youtube.com/watch?v=DQte_YkKzBs",
+  "data": 1795017129000,
+  "views": 1585,
+  "visto": 1795047560205,
+  "tema": "kw:carros",
+  "hist": [
+   [
+    1795047560205,
+    1585
+   ]
+  ]
+ },
+ {
+  "chave": "Gigaton Games|9h1FlqGJs0Y",
+  "fonte": "Gigaton Games",
+  "grupo": "br",
+  "titulo": "GTA 6 QUEBROU A INTERNET...",
+  "link": "https://www.youtube.com/watch?v=9h1FlqGJs0Y",
+  "data": 1795046471000,
+  "views": 2654,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    2654
+   ]
+  ]
+ },
+ {
+  "chave": "Gigaton Games|UjEtnHN2oZ0",
+  "fonte": "Gigaton Games",
+  "grupo": "br",
+  "titulo": "GTA 6 - O INICIO DE GAMEPLAY (EDITADO)",
+  "link": "https://www.youtube.com/watch?v=UjEtnHN2oZ0",
+  "data": 1795040694000,
+  "views": 3915,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    3915
+   ]
+  ]
+ },
+ {
+  "chave": "SanInPlay|zB3xUEY8vNo",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "GTA 6: GAMEPLAY DOS PRIMEIROS MINUTOS em VICE CITY! (Absurdo) #gta6",
+  "link": "https://www.youtube.com/watch?v=zB3xUEY8vNo",
+  "data": 1795044051000,
+  "views": 737,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    737
+   ]
+  ]
+ },
+ {
+  "chave": "SanInPlay|p65cSR5eJRQ",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "GTA 6: MISSÃO de MERGULHO! EXPLORANDO o FUNDO DO MAR e CAÇANDO TESOUROS! #gta6",
+  "link": "https://www.youtube.com/watch?v=p65cSR5eJRQ",
+  "data": 1795037069000,
+  "views": 2635,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    2635
+   ]
+  ]
+ },
+ {
+  "chave": "SanInPlay|4d-JAVZrBUQ",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "MISTÉRIO DO PÉ GRANDE NO GTA 6! #gta6 #shorts",
+  "link": "https://www.youtube.com/shorts/4d-JAVZrBUQ",
+  "data": 1795031306000,
+  "views": 1256,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1256
+   ]
+  ]
+ },
+ {
+  "chave": "SanInPlay|3Uz64TZrEEY",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "EASTER EGG do PÉ GRANDE no GTA 6! EVENTO ALEATÓRIO ACIDENTE AÉREO! (Absurdo) #gta6",
+  "link": "https://www.youtube.com/watch?v=3Uz64TZrEEY",
+  "data": 1795030191000,
+  "views": 4119,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    4119
+   ]
+  ]
+ },
+ {
+  "chave": "SanInPlay|kX02-PyoQAU",
+  "fonte": "SanInPlay",
+  "grupo": "br",
+  "titulo": "A CASA DO JASON NO GTA 6! #gta6 #shorts",
+  "link": "https://www.youtube.com/shorts/kX02-PyoQAU",
+  "data": 1795027490000,
+  "views": 1314,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1314
+   ]
+  ]
+ },
+ {
+  "chave": "WyzeWolf BR|i2LAjDhv2lI",
+  "fonte": "WyzeWolf BR",
+  "grupo": "br",
+  "titulo": "GTA 6 fez REFERÊNCIA ao GTA ONLINE! #gta6 #gtavi #gtaonline",
+  "link": "https://www.youtube.com/shorts/i2LAjDhv2lI",
+  "data": 1795044632000,
+  "views": 2607,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    2607
+   ]
+  ]
+ },
+ {
+  "chave": "WyzeWolf BR|hO8HRO_S6eI",
+  "fonte": "WyzeWolf BR",
+  "grupo": "br",
+  "titulo": "o PÉ-GRANDE me ATACOU no GTA 6! #gta6 #gtavi",
+  "link": "https://www.youtube.com/shorts/hO8HRO_S6eI",
+  "data": 1795037062000,
+  "views": 8155,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    8155
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|Bku6nlMzvzU",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "APENAS APRECIEM ESSA VISTA DO GTA 6 #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/Bku6nlMzvzU",
+  "data": 1795042809000,
+  "views": 162,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    162
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|OzVxGBDkEg0",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "AVIÃO DA BASE MILITAR #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/OzVxGBDkEg0",
+  "data": 1795041035000,
+  "views": 208,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    208
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|cVR8fVlYZZw",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "GTA 6 - Grassrivers é sinistro... e lindo! Exploração sem Spoiler - PS5 PRO",
+  "link": "https://www.youtube.com/watch?v=cVR8fVlYZZw",
+  "data": 1795040654000,
+  "views": 560,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    560
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|Gi66aV7oTVs",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "BÓRA MANDAR AQUELA SELFIE NO GTA 6 #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/Gi66aV7oTVs",
+  "data": 1795039239000,
+  "views": 217,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    217
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|0GtsvJ0a_ss",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "Julgando GTA 6 de forma imparcial e criteriosa",
+  "link": "https://www.youtube.com/shorts/0GtsvJ0a_ss",
+  "data": 1795038813000,
+  "views": 271,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    271
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|gPtaRwROnhs",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "Tigre em Grassrivers no GTA 6 #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/gPtaRwROnhs",
+  "data": 1795036887000,
+  "views": 444,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    444
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|3Ig5xBaw-SY",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "ATÉ A FECHADA NO TRÂNSITO É REALISTA NO GTA 6 #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/3Ig5xBaw-SY",
+  "data": 1795035618000,
+  "views": 7112,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    7112
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|F-OShvFQp2Q",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "O NPC TROPEÇOU NA ESCADA #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/F-OShvFQp2Q",
+  "data": 1795033809000,
+  "views": 1960,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1960
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|t81HjQRJnI4",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "A COBRA DO JASON #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/t81HjQRJnI4",
+  "data": 1795031970000,
+  "views": 1161,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1161
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|YQeu_Jcvhjk",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "A ROCKSTAR CRIOU ONDAS EXTREMAMENTE REALISTAS NO GTA 6",
+  "link": "https://www.youtube.com/shorts/YQeu_Jcvhjk",
+  "data": 1795030231000,
+  "views": 3529,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    3529
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|4qcNCAhCytM",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "Como está o Ocean View Hotel do Vice City no GTA 6? Shore Drive A noite",
+  "link": "https://www.youtube.com/watch?v=4qcNCAhCytM",
+  "data": 1795029124000,
+  "views": 2819,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    2819
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|yUgDlkbK4eE",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "PRIMEIRA VEZ VENDO O FAT ALBERT NO GTA 6! #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/yUgDlkbK4eE",
+  "data": 1795028418000,
+  "views": 1290,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1290
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|eL5mICAy7Go",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "PRIMEIRA QUEDA DE MOTO NO GTA 6 #gta6 #rockstargames",
+  "link": "https://www.youtube.com/shorts/eL5mICAy7Go",
+  "data": 1795026627000,
+  "views": 12965,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    12965
+   ]
+  ]
+ },
+ {
+  "chave": "Gameplayrj|BgS97FUMfGI",
+  "fonte": "Gameplayrj",
+  "grupo": "br",
+  "titulo": "GTA 6 - A ILHA SECRETA DOS CACHORROS",
+  "link": "https://www.youtube.com/watch?v=BgS97FUMfGI",
+  "data": 1795043030000,
+  "views": 3176,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    3176
+   ]
+  ]
+ },
+ {
+  "chave": "Gameplayrj|_yduUl3mh-A",
+  "fonte": "Gameplayrj",
+  "grupo": "br",
+  "titulo": "GTA 6 - EASTER EGG do GTA V e BARCO do MICHAEL",
+  "link": "https://www.youtube.com/watch?v=_yduUl3mh-A",
+  "data": 1795035900000,
+  "views": 22843,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    22843
+   ]
+  ]
+ },
+ {
+  "chave": "Gameplayrj|mhgv0kj-BFw",
+  "fonte": "Gameplayrj",
+  "grupo": "br",
+  "titulo": "Que criatura é essa??? O PRIMEIRO EASTER EGG DO GTA VI",
+  "link": "https://www.youtube.com/watch?v=mhgv0kj-BFw",
+  "data": 1795029953000,
+  "views": 160848,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    160848
+   ]
+  ]
+ },
+ {
+  "chave": "Gameplayrj|d1I0hL7xXQE",
+  "fonte": "Gameplayrj",
+  "grupo": "br",
+  "titulo": "GTA 6 - BUSCANDO A LUCIA E FIQUEI TODO ARREPIADO NESSA MISSÃO Parte 5",
+  "link": "https://www.youtube.com/watch?v=d1I0hL7xXQE",
+  "data": 1795027697000,
+  "views": 34351,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    34351
+   ]
+  ]
+ },
+ {
+  "chave": "O Meu Canal de Games|fT2dg2-YLhE",
+  "fonte": "O Meu Canal de Games",
+  "grupo": "br",
+  "titulo": "GTA 6 É O MELHOR JOGO DA GERAÇÃO?",
+  "link": "https://www.youtube.com/watch?v=fT2dg2-YLhE",
+  "data": 1795041697000,
+  "views": 4675,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    4675
+   ]
+  ]
+ },
+ {
+  "chave": "O Meu Canal de Games|QULJmjDrt28",
+  "fonte": "O Meu Canal de Games",
+  "grupo": "br",
+  "titulo": "FURACÕES E TEMPESTADES EM GTA 6 #gta #gta6",
+  "link": "https://www.youtube.com/shorts/QULJmjDrt28",
+  "data": 1795035618000,
+  "views": 1264,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1264
+   ]
+  ]
+ },
+ {
+  "chave": "Davy Jones GTA 6|GAKa_c93RzU",
+  "fonte": "Davy Jones GTA 6",
+  "grupo": "br",
+  "titulo": "EASTER EGG DE GTA 5 NO GTA 6",
+  "link": "https://www.youtube.com/watch?v=GAKa_c93RzU",
+  "data": 1795034646000,
+  "views": 9918,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    9918
+   ]
+  ]
+ },
+ {
+  "chave": "Davy Jones GTA 6|6G8k9-SLXeg",
+  "fonte": "Davy Jones GTA 6",
+  "grupo": "br",
+  "titulo": "EASTER EGG DO PÉ GRANDE NO GTA 6",
+  "link": "https://www.youtube.com/watch?v=6G8k9-SLXeg",
+  "data": 1795028201000,
+  "views": 13019,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795047560205,
+    13019
+   ]
+  ]
+ },
+ {
+  "chave": "Davy Jones GTA 6|3LeNW6NG5bM",
+  "fonte": "Davy Jones GTA 6",
+  "grupo": "br",
+  "titulo": "A PRIMEIRA PERSEGUIÇÃO POLICIAL NO GTA 6",
+  "link": "https://www.youtube.com/watch?v=3LeNW6NG5bM",
+  "data": 1795027525000,
+  "views": 5826,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    5826
+   ]
+  ]
+ },
+ {
+  "chave": "Yami Bruno|uJJ7wHewsfw",
+  "fonte": "Yami Bruno",
+  "grupo": "br",
+  "titulo": "GTA 6: LIVE DE LANÇAMENTO! Jogando pela Primeira Vez",
+  "link": "https://www.youtube.com/watch?v=uJJ7wHewsfw",
+  "data": 1795040761000,
+  "views": 47,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    47
+   ]
+  ]
+ },
+ {
+  "chave": "Icro|CL-p--p0qKk",
+  "fonte": "Icro",
+  "grupo": "br",
+  "titulo": "ALANZOKA QUEBROU A TWITCH COM GTA 6! 💀",
+  "link": "https://www.youtube.com/shorts/CL-p--p0qKk",
+  "data": 1795031542000,
+  "views": 4287,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    4287
+   ]
+  ]
+ },
+ {
+  "chave": "CODENAME VI|8tC3_aku6BY",
+  "fonte": "CODENAME VI",
+  "grupo": "br",
+  "titulo": "GTA 6 sai AMANHÃ: 4 coisas do GTA 5 que vão te PUNIR na 1ª hora",
+  "link": "https://www.youtube.com/shorts/8tC3_aku6BY",
+  "data": 1795035602000,
+  "views": 1236,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1236
+   ]
+  ]
+ },
+ {
+  "chave": "JTM|Qcq6UZkrwMM",
+  "fonte": "JTM",
+  "grupo": "br",
+  "titulo": "NO GTA 6, MISSÃO QUE PASSOU NÃO VOLTA #gta6",
+  "link": "https://www.youtube.com/shorts/Qcq6UZkrwMM",
+  "data": 1795042682000,
+  "views": 1428,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    1428
+   ]
+  ]
+ },
+ {
+  "chave": "JTM|5bjl2Kyb6R0",
+  "fonte": "JTM",
+  "grupo": "br",
+  "titulo": "A ROCKSTAR NÃO CONSERTOU A GELADEIRA DO GTA 6",
+  "link": "https://www.youtube.com/shorts/5bjl2Kyb6R0",
+  "data": 1795033704000,
+  "views": 3792,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    3792
+   ]
+  ]
+ },
+ {
+  "chave": "JTM|P9xcM525umc",
+  "fonte": "JTM",
+  "grupo": "br",
+  "titulo": "GTA 6 TIROU 99... MAS RECLAMARAM DISSO",
+  "link": "https://www.youtube.com/shorts/P9xcM525umc",
+  "data": 1795028865000,
+  "views": 4033,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    4033
+   ]
+  ]
+ },
+ {
+  "chave": "NobertoGamer|XK1Owb1vjdU",
+  "fonte": "NobertoGamer",
+  "grupo": "br",
+  "titulo": "🔴LIVE: (SEM SPOILER) GAMEPLAY AO VIVO DO GTA 6! Explorando TUDO do MAPA FINALMENTE! (PARTE 2)",
+  "link": "https://www.youtube.com/watch?v=XK1Owb1vjdU",
+  "data": 1795044977000,
+  "views": 13779,
+  "visto": 1795047560205,
+  "tema": "kw:mapa",
+  "hist": [
+   [
+    1795047560205,
+    13779
+   ]
+  ]
+ },
+ {
+  "chave": "NobertoGamer|PpUbnvy1sBc",
+  "fonte": "NobertoGamer",
+  "grupo": "br",
+  "titulo": "🚨SEM SPOILER, PRIMEIRA EXPLORAÇÃO MAPA GTA 6! PRAIA, Roubando Avião, Sobrevoando VICE CITY e Mais!",
+  "link": "https://www.youtube.com/watch?v=PpUbnvy1sBc",
+  "data": 1795025257000,
+  "views": 4041,
+  "visto": 1795047560205,
+  "tema": "kw:mapa",
+  "hist": [
+   [
+    1795047560205,
+    4041
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|vR6V5zHFHRw",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Home Sweet Home - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=vR6V5zHFHRw",
+  "data": 1795046414000,
+  "views": 0,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    0
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|gDbkTlXe5FY",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Tourist Trap (Take Up Mattia’s Offer) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=gDbkTlXe5FY",
+  "data": 1795044953000,
+  "views": 21,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    21
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|l-KVRD63gpA",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Recalibration (Talk to Lucia) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=l-KVRD63gpA",
+  "data": 1795044226000,
+  "views": 14,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    14
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|GNKOnXHox0g",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Donnie’s Lost Drugs - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=GNKOnXHox0g",
+  "data": 1795040476000,
+  "views": 106,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    106
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|IB0B8gCY9Gw",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Don Gone (Head to Donnie’s Trailer) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=IB0B8gCY9Gw",
+  "data": 1795037315000,
+  "views": 221,
+  "visto": 1795047560205,
+  "tema": "kw:trailer",
+  "hist": [
+   [
+    1795047560205,
+    221
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|E2FD_fvg1l0",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Swamped (Meet Brian) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=E2FD_fvg1l0",
+  "data": 1795036514000,
+  "views": 128,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    128
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|jH727v86eF8",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Building a Life - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=jH727v86eF8",
+  "data": 1795035632000,
+  "views": 164,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    164
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|WuzeJ439TM4",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Clear Skies (Join Donnie On A Job) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=WuzeJ439TM4",
+  "data": 1795035381000,
+  "views": 135,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    135
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|zIr-1vszSTU",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Find Mattia on the Yacht - How to",
+  "link": "https://www.youtube.com/watch?v=zIr-1vszSTU",
+  "data": 1795031105000,
+  "views": 359,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    359
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|1XsVFRFTxpU",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Day Release (Meet Mattia & Kat) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=1XsVFRFTxpU",
+  "data": 1795030754000,
+  "views": 417,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    417
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|NKAmUuaFzcs",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Find the Lost Drugs - Full Walkthrough (All Package Locations)",
+  "link": "https://www.youtube.com/watch?v=NKAmUuaFzcs",
+  "data": 1795026624000,
+  "views": 634,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    634
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|1S0AzSmAbPw",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Down to Earth (Meet Brian) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=1S0AzSmAbPw",
+  "data": 1795025737000,
+  "views": 428,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    428
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|xTzA8IxPSa4",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Down to Earth – GTA 6",
+  "link": "https://www.youtube.com/watch?v=xTzA8IxPSa4",
+  "data": 1795038967000,
+  "views": 84,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    84
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|iDFk-Gauy5Y",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Buck Me – GTA 6",
+  "link": "https://www.youtube.com/watch?v=iDFk-Gauy5Y",
+  "data": 1795035142000,
+  "views": 158,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    158
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|66Z9OOkClbs",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Clean Up After Donnie – GTA 6",
+  "link": "https://www.youtube.com/watch?v=66Z9OOkClbs",
+  "data": 1795034011000,
+  "views": 169,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    169
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|V608go4I6_M",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Nuestra Senora De La Noche – GTA 6 – All 7/7 Treasures",
+  "link": "https://www.youtube.com/watch?v=V608go4I6_M",
+  "data": 1795032790000,
+  "views": 247,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    247
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|jiPUQay-zso",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Nuestra Senora De La Etica Laxa – GTA 6 – All 5/5 Treasures",
+  "link": "https://www.youtube.com/watch?v=jiPUQay-zso",
+  "data": 1795032628000,
+  "views": 198,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    198
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|cAof-kYudLY",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Coming Home – GTA 6",
+  "link": "https://www.youtube.com/watch?v=cAof-kYudLY",
+  "data": 1795031291000,
+  "views": 290,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    290
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|14csXqQaiUA",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Feng Shui – GTA 6",
+  "link": "https://www.youtube.com/watch?v=14csXqQaiUA",
+  "data": 1795026581000,
+  "views": 244,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    244
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|Vl1jgfpTtEk",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Steal the Scooter – GTA 6",
+  "link": "https://www.youtube.com/watch?v=Vl1jgfpTtEk",
+  "data": 1795026374000,
+  "views": 249,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    249
+   ]
+  ]
+ },
+ {
+  "chave": "CtrlAltPlay|C6DncvkjuWA",
+  "fonte": "CtrlAltPlay",
+  "grupo": "guia",
+  "titulo": "10 Things That Make Jason's House Special in GTA 6!",
+  "link": "https://www.youtube.com/shorts/C6DncvkjuWA",
+  "data": 1795046410000,
+  "views": 28,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    28
+   ]
+  ]
+ },
+ {
+  "chave": "Hazard|PH6WdBYOzSI",
+  "fonte": "Hazard",
+  "grupo": "guia",
+  "titulo": "🔴 GTA 6 Has Me Hooked! (LIVE Gameplay)",
+  "link": "https://www.youtube.com/watch?v=PH6WdBYOzSI",
+  "data": 1795043290000,
+  "views": 0,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    0
+   ]
+  ]
+ },
+ {
+  "chave": "Hazard|PYBfQZXFkYY",
+  "fonte": "Hazard",
+  "grupo": "guia",
+  "titulo": "🔴 GTA 6 is Finally Here! (100% SPOILER FREE Gameplay)",
+  "link": "https://www.youtube.com/watch?v=PYBfQZXFkYY",
+  "data": 1795030708000,
+  "views": 365041,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    365041
+   ]
+  ]
+ },
+ {
+  "chave": "Maka91Productions|czS1q74rIAc",
+  "fonte": "Maka91Productions",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Tank (Rhino) Location Guide - Challenging Tank Achievement/Trophy",
+  "link": "https://www.youtube.com/watch?v=czS1q74rIAc",
+  "data": 1795045799000,
+  "views": 118,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    118
+   ]
+  ]
+ },
+ {
+  "chave": "Hunters CLan|t2TfULd3bPg",
+  "fonte": "Hunters CLan",
+  "grupo": "br",
+  "titulo": "🚨 GTA 6: O INÍCIO ÉPICO EM VICE CITY / LEONIDA | Grand Theft Auto VI em Português PT-BR (LIVE #1)",
+  "link": "https://www.youtube.com/watch?v=t2TfULd3bPg",
+  "data": 1795031304000,
+  "views": 41825,
+  "visto": 1795047560205,
+  "tema": "kw:mapa",
+  "hist": [
+   [
+    1795047560205,
+    41825
+   ]
+  ]
+ },
+ {
+  "chave": "E-MasterSensei|dgNubxs6UnM",
+  "fonte": "E-MasterSensei",
+  "grupo": "gringo",
+  "titulo": "Me INVITARON a MIAMI al LANZAMIENTO de GTA 6! 🌴🚔 (Grand Theft Auto VI)",
+  "link": "https://www.youtube.com/watch?v=dgNubxs6UnM",
+  "data": 1795045845000,
+  "views": 7873,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    7873
+   ]
+  ]
+ },
+ {
+  "chave": "E-MasterSensei|2YMiTFW-WKM",
+  "fonte": "E-MasterSensei",
+  "grupo": "gringo",
+  "titulo": "COMIENZA la HISTORIA de GTA 6! #1 🚔🌴 (Grand Theft Auto VI)",
+  "link": "https://www.youtube.com/watch?v=2YMiTFW-WKM",
+  "data": 1795036173000,
+  "views": 233620,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    233620
+   ]
+  ]
+ },
+ {
+  "chave": "BeardBear|SeIpiWtv3N4",
+  "fonte": "BeardBear",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Full Gameplay Walkthrough (PART 1)",
+  "link": "https://www.youtube.com/watch?v=SeIpiWtv3N4",
+  "data": 1795032246000,
+  "views": 56577,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    56577
+   ]
+  ]
+ },
+ {
+  "chave": "KhrazeGaming|LHDZV2JouEY",
+  "fonte": "KhrazeGaming",
+  "grupo": "guia",
+  "titulo": "How To Get Legendary WEAPONS & Make Money Early in GTA 6!",
+  "link": "https://www.youtube.com/watch?v=LHDZV2JouEY",
+  "data": 1795034143000,
+  "views": 20390,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": [
+   [
+    1795047560205,
+    20390
+   ]
+  ]
+ },
+ {
+  "chave": "IGN|7abdc041-81c2-4c6e-b5e9-f44a8e56d0ff",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+  "link": "https://www.ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity",
+  "data": 1795044684000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|33a7cf34-a6ab-4669-b27b-0f89ae33054d",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Doesn't Let Players Pick Up Prostitutes, But Rockstar Has a Logical Reason for It",
+  "link": "https://www.ign.com/articles/gta-6-doesnt-let-players-pick-up-prostitutes-but-rockstar-has-a-logical-reason-for-it",
+  "data": 1795043243000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|df097155-e353-4da1-8fa8-fa094453690e",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
+  "link": "https://www.ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
+  "data": 1795042830000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|20781c89-249f-477a-9e39-7c67ad574565",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 — And What's Inside Was Worth the Wait",
+  "link": "https://www.ign.com/articles/a-gta-6-location-was-teased-by-rockstar-all-the-way-back-in-2021-and-whats-inside-was-worth-the-wait",
+  "data": 1795035391000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|e2dde85f-40bf-4e8c-8e2a-b0f1affec7b4",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
+  "link": "https://www.ign.com/articles/gta-6-shatters-streaming-records-before-it-even-launches-globally",
+  "data": 1795027425000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965965",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "GTA 6’s Best Song Is A Nelly Furtado Cover From Azerbaijan",
+  "link": "https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/",
+  "data": 1795035529000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965933",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "PSN Went Down Sorta On GTA 6 Eve",
+  "link": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
+  "data": 1795035337000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965826",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
+  "link": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
+  "data": 1795033350000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965512",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
+  "link": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/",
+  "data": 1795031638000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965297",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Has A Hilarious Riff On Easter Eggs",
+  "link": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/",
+  "data": 1795027778000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:detalhes",
+  "hist": []
+ },
+ {
+  "chave": "GameSpot|1965269",
+  "fonte": "GameSpot",
+  "grupo": "noticia",
+  "titulo": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
+  "link": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
+  "data": 1795025148000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251538",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "Can you replay missions in GTA 6?",
+  "link": "https://www.videogameschronicle.com/guide/can-you-replay-missions-in-gta-6/",
+  "data": 1795045839000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251530",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Chapter 1 Just Like Paradise Guide: How many missions are in GTA 6 Chapter 1?",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-chapter-1-just-like-paradise-guide-how-many-missions-are-in-gta-6-chapter-1/",
+  "data": 1795045541000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251523",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Chapter 1 warning: Read this before finishing chapter 1 of GTA 6",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-chapter-1-warning-read-this-before-finishing-chapter-1-of-gta-6/",
+  "data": 1795043625000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251479",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Discharge Time Mission Walkthrough",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-discharge-time-mission-walkthrough/",
+  "data": 1795042233000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251478",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Home Sweet Home Mission Walkthrough",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-home-sweet-home-mission-walkthrough/",
+  "data": 1795042224000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251477",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Tourist Trap Mission Walkthrough",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-tourist-trap-mission-walkthrough/",
+  "data": 1795042210000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251476",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Recalibration Mission Walkthrough",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-recalibration-mission-walkthrough/",
+  "data": 1795042203000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251475",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Don Gone Mission Walkthrough",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-don-gone-mission-walkthrough/",
+  "data": 1795039324000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=251459",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "Republican Congressman says you’re a ‘bad parent’ if you let your child play GTA 6",
+  "link": "https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6/",
+  "data": 1795035224000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|ZedhLXYouSeYPQ5BpfyWva",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6: Where to find your first plane and helicopter right away",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+  "data": 1795042268000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|qC8ydqEnUV3p5eJqRrAAPm",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
+  "data": 1795039928000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:trailer",
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|CGMzDx7pZaNT5Ys8toj63B",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6 airport location: Here's where to earn your wings less than legally",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
+  "data": 1795038764000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|HLRs6gkQzGJNaH8YsMQ6AP",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+  "data": 1795038695000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|52iSbHYCKi3LhyT5KNqYmF",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/befuddled-japanese-player-fights-gta-6-controls-loses-becomes-guy-chugging-two-shakes-i-accidentally-bought-while-walking-around-in-a-squat/",
+  "data": 1795038504000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|eKFVGZ8CL8iBYJCgtrJFLA",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/",
+  "data": 1795033404000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|JJxhyGZxaYCMXC9bMfmSw",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
+  "data": 1795029764000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:antes",
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|RxPuXeJyivGMRHTWLFAHhW",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "How to get a snap gun in GTA 6",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/",
+  "data": 1795026550000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|B6T6Qcz73g7TaxLzv7MX2b",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "What's the first thing you're gonna do in GTA 6?",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/whats-the-first-thing-youre-gonna-do-in-gta-6/",
+  "data": 1795026532000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|2p7kR8qvCDSskmj5GYwqXP",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "'I just hope GTA 6 is the last of its kind': Warren Spector congratulates Rockstar on its landmark accomplishment but says the industry can't keep this up",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/",
+  "data": 1795026232000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|7KnxfdMi4Now6PtvytDHnW",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "How to clone keys in GTA 6",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/",
+  "data": 1795026075000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+  "link": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+  "data": 1795034420000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
+  "link": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+  "data": 1795028900000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
+  "link": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+  "data": 1795027340000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
+  "link": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+  "data": 1795025870000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-story-mode-guide-ba58",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Story Mode Guide: Missions and Walkthroughs",
+  "link": "https://www.gtaboom.com/gta-6-story-mode-guide-ba58",
+  "data": 1795046163000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-hey-arnold-walkthrough-858d",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Hey Arnold! in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-hey-arnold-walkthrough-858d",
+  "data": 1795045531000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-unwanted-attention-walkthrough-40ae",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Unwanted Attention in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-unwanted-attention-walkthrough-40ae",
+  "data": 1795041954000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-steal-the-scooter-walkthrough-cd5b",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Steal the Scooter in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-steal-the-scooter-walkthrough-cd5b",
+  "data": 1795037862000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-get-shirleys-rum-walkthrough-7830",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Get Shirley's Rum in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-get-shirleys-rum-walkthrough-7830",
+  "data": 1795037834000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-pipework-walkthrough-dac2",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Pipework in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-pipework-walkthrough-dac2",
+  "data": 1795037564000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-violence-debate-just-reached-congress-on-launch-day-3a2f",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Violence Debate Just Reached Congress on Launch Day",
+  "link": "https://www.gtaboom.com/gta-6-violence-debate-just-reached-congress-on-launch-day-3a2f",
+  "data": 1795031659000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-has-a-new-save-system-and-will-not-let-you-replay-story-missions-fa48",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Has a New Save System and Will Not Let You Replay Story Missions",
+  "link": "https://www.gtaboom.com/gta-6-has-a-new-save-system-and-will-not-let-you-replay-story-missions-fa48",
+  "data": 1795029869000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-members-get-an-exclusive-car-and-garage-in-gta-6-c5ae",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA+ Members Get an Exclusive Car and Garage in GTA 6",
+  "link": "https://www.gtaboom.com/gta-members-get-an-exclusive-car-and-garage-in-gta-6-c5ae",
+  "data": 1795028475000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Rockstar Intel|https://rockstarintel.com/?p=44560",
+  "fonte": "Rockstar Intel",
+  "grupo": "noticia",
+  "titulo": "GTA VI Hands-On Gameplay Impressions",
+  "link": "https://rockstarintel.com/gta-vi-hands-on-gameplay-impressions/",
+  "data": 1795023523000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:review",
+  "hist": []
+ },
+ {
+  "chave": "Rockstar Intel|https://rockstarintel.com/?p=44630",
+  "fonte": "Rockstar Intel",
+  "grupo": "noticia",
+  "titulo": "Rockstar Co-Founder Sam Houser Releases Statement On GTA VI",
+  "link": "https://rockstarintel.com/rockstar-co-founder-sam-houser-releases-statement-on-gta-vi/",
+  "data": 1795009478000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238787",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Confirmed GTA 6 Voice Actors—Cast List",
+  "link": "https://insider-gaming.com/gta-6-voice-actors/",
+  "data": 1795043311000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238899",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "One in Five Workers Taking Time Off for GTA 6, It’s Claimed",
+  "link": "https://insider-gaming.com/workers-taking-time-off-gta-6/",
+  "data": 1795042428000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238090",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "How to Take Drugs in Grand Theft Auto 6? Where to Find Drugs, Explained",
+  "link": "https://insider-gaming.com/how-to-take-drugs-in-gta-6/",
+  "data": 1795042388000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238922",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Who is Mandy in GTA 6? Pipework Mission and Serial Killer Theory, Explained",
+  "link": "https://insider-gaming.com/who-is-mandy-gta-6-when-do-you-meet-serial-killer/",
+  "data": 1795041696000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238552",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "When Can You Switch To Lucia in GTA 6? Fastest Method, Explained",
+  "link": "https://insider-gaming.com/when-can-switch-lucia-gta-6-fastest-method/",
+  "data": 1795040422000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238908",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "GTA 6’s Record MetaCritic Score Stays, Maintains GOAT Status",
+  "link": "https://insider-gaming.com/gta-6-metacritic-score-maintains-goat-status/",
+  "data": 1795039898000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238892",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "PS5 Pro’s CPU Upgrade Is Not Enough for GTA 6 at 60 FPS",
+  "link": "https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps/",
+  "data": 1795037061000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238881",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Sets Streaming Launch Record Within Minutes",
+  "link": "https://insider-gaming.com/gta-6-streaming-launch-record/",
+  "data": 1795033325000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=238814",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find Bigfoot In GTA 6",
+  "link": "https://insider-gaming.com/where-to-find-bigfoot-gta-6/",
+  "data": 1795025185000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/gta-6-auto-drive-enable-use-unlock-guide-easy-map-exploration/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "How To Enable Auto-Drive In GTA 6",
+  "link": "https://www.thegamer.com/gta-6-auto-drive-enable-use-unlock-guide-easy-map-exploration/",
+  "data": 1795046444000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/gta-6-first-person-aiming-guns-how-to-unlock-and-use/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "How To Unlock First-Person Aiming In GTA 6",
+  "link": "https://www.thegamer.com/gta-6-first-person-aiming-guns-how-to-unlock-and-use/",
+  "data": 1795046439000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/gta-6-grand-theft-auto-deluxe-edition-reward-contraversy/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Ultimate Edition DLC Won’t Be Permanent Or Immediately Accessible",
+  "link": "https://www.thegamer.com/gta-6-grand-theft-auto-deluxe-edition-reward-contraversy/",
+  "data": 1795043013000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Ei Nerd|https://www.einerd.com/?p=225886",
+  "fonte": "Ei Nerd",
+  "grupo": "noticia",
+  "titulo": "GTA 6 estreia com nota 99 e iguala recorde histórico",
+  "link": "https://www.einerd.com/gta-6-nota-99-metacritic-recorde/",
+  "data": 1795045986000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157762/rockstar-ja-havia-dado-previa-de-local-de-gta-6-la-em-2021-e-o-que-havia-la-dentro-valeu-a-pena-a-es",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Rockstar já havia dado prévia de local de GTA 6 lá em 2021 — e o que havia lá dentro valeu a pena a espera",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157762/rockstar-ja-havia-dado-previa-de-local-de-gta-6-la-em-2021-e-o-que-havia-la-dentro-valeu-a-pena-a-es",
+  "data": 1795037762000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157761/anitta-em-gta-6-cantora-brasileira-comanda-podcast-sobre-sexo-no-novo-jogo-da-rockstar",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Anitta em GTA 6? Cantora brasileira comanda podcast sobre sexo no novo jogo da Rockstar",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157761/anitta-em-gta-6-cantora-brasileira-comanda-podcast-sobre-sexo-no-novo-jogo-da-rockstar",
+  "data": 1795036155000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157760/nao-espere-prostitutas-em-gta-6-rockstar-retira-mecanica-para-focar-exclusivamente-no-relacionamento",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Não espere prostitutas em GTA 6: Rockstar retira mecânica para focar exclusivamente no relacionamento de Jason e Lucia",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157760/nao-espere-prostitutas-em-gta-6-rockstar-retira-mecanica-para-focar-exclusivamente-no-relacionamento",
+  "data": 1795034896000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157754/procuramos-criar-uma-experiencia-que-supere-suas-expectativas-presidente-da-rockstar-sam-houser-faz",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "“Procuramos criar uma experiência que supere suas expectativas”: presidente da Rockstar, Sam Houser faz rara declaração para comemorar lançamento de GTA 6",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157754/procuramos-criar-uma-experiencia-que-supere-suas-expectativas-presidente-da-rockstar-sam-houser-faz",
+  "data": 1795031397000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157751/gta-6-quebra-recordes-de-streaming-antes-mesmo-de-ser-lancado-mundialmente",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "GTA 6 quebra recordes de streaming antes mesmo de ser lançado mundialmente",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157751/gta-6-quebra-recordes-de-streaming-antes-mesmo-de-ser-lancado-mundialmente",
+  "data": 1795030464000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/produto-e-review/kit-da-maldade-usa-gta-6-para-infectar-computadores/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "Kit da ‘maldade’ usa GTA 6 para hackear computadores",
+  "link": "https://www.estadao.com.br/tecmundo/produto-e-review/kit-da-maldade-usa-gta-6-para-infectar-computadores/",
+  "data": 1795046400000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-parodia-do-whatsapp-chamada-whatsup-veja-como-funciona/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "GTA 6 tem paródia do WhatsApp chamada WhatsUp! Veja como funciona",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-parodia-do-whatsapp-chamada-whatsup-veja-como-funciona/",
+  "data": 1795040100000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/voxel/digital-foundry-rasga-elogios-para-gta-6-e-justifica-30-fps-pelos-saltos-graficos/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "Digital Foundry rasga elogios para GTA 6 e ‘justifica’ 30 FPS pelos saltos gráficos",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/digital-foundry-rasga-elogios-para-gta-6-e-justifica-30-fps-pelos-saltos-graficos/",
+  "data": 1795036500000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/guia-de-compras/promocao-arrasadora-meli-oferece-cupom-de-r100-para-gta-6-e-r500-para-ps5/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "Promoção Arrasadora! Meli oferece cupom de R$90 para GTA 6 e R$500 para PS5",
+  "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/promocao-arrasadora-meli-oferece-cupom-de-r100-para-gta-6-e-r500-para-ps5/",
+  "data": 1795028820000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/voxel/vale-a-pena-jogar-gta-6-via-nuvem-no-xbox-one-confira-os-precos/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "Vale a pena jogar GTA 6 via nuvem no Xbox One? Confira os preços",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/vale-a-pena-jogar-gta-6-via-nuvem-no-xbox-one-confira-os-precos/",
+  "data": 1795032900000,
+  "views": null,
+  "visto": 1795047560205,
+  "tema": "kw:review",
   "hist": []
  }
 ]
