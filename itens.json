@@ -61,28 +61,6 @@
   "tema": "t2"
  },
  {
-  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74",
-  "fonte": "GTA BOOM",
-  "grupo": "noticia",
-  "titulo": "GTA 6 Album Listening Parties Confirmed for 230-Plus Record Stores in the US on November 18",
-  "link": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74",
-  "data": 1794465212000,
-  "views": null,
-  "visto": 1794483593362,
-  "tema": "t6"
- },
- {
-  "chave": "GTA BOOM|https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7",
-  "fonte": "GTA BOOM",
-  "grupo": "noticia",
-  "titulo": "The Real-Life Ocean View Hotel Is Throwing a GTA VI Launch Party",
-  "link": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7",
-  "data": 1794462395000,
-  "views": null,
-  "visto": 1794483593362,
-  "tema": "t24"
- },
- {
   "chave": "Insider Gaming|https://insider-gaming.com/?p=233424",
   "fonte": "Insider Gaming",
   "grupo": "noticia",
@@ -13234,7 +13212,7 @@
   "titulo": "GTA 6 - LIVE DE LANÇAMENTO JOGANDO",
   "link": "https://www.youtube.com/watch?v=fr6MkbXZKw8",
   "data": 1795057373000,
-  "views": 15724,
+  "views": 17330,
   "visto": 1795073973094,
   "tema": null,
   "hist": [
@@ -20851,7 +20829,7 @@
   "titulo": "GTA 6 É TUDO ISSO MESMO QUE TÃO FALANDO?",
   "link": "https://www.youtube.com/watch?v=-isRxm6m2c8",
   "data": 1795194762000,
-  "views": 2269128,
+  "views": 2327572,
   "visto": 1795207566938,
   "tema": null,
   "hist": [
@@ -20866,6 +20844,10 @@
    [
     1795312332074,
     2269128
+   ],
+   [
+    1795338863244,
+    2327572
    ]
   ]
  },
@@ -25984,7 +25966,7 @@
   "titulo": "GTA 6 ULTIMATE Beginner's Guide! 25+ Tips & Tricks You NEED to Know",
   "link": "https://www.youtube.com/watch?v=OFC1ZVSjB3o",
   "data": 1795296636000,
-  "views": 20765,
+  "views": 61779,
   "visto": 1795297935162,
   "tema": "kw:antes",
   "hist": [
@@ -25995,6 +25977,10 @@
    [
     1795312332074,
     20765
+   ],
+   [
+    1795338863244,
+    61779
    ]
   ]
  },
@@ -26194,7 +26180,7 @@
   "titulo": "Subindo na TORRE MAIS ALTA do GTA 6! (Easter Egg Surpresa)",
   "link": "https://www.youtube.com/watch?v=fsdgFoz3uY0",
   "data": 1795295726000,
-  "views": 2572,
+  "views": 4621,
   "visto": 1795297935162,
   "tema": "kw:detalhes",
   "hist": [
@@ -26205,6 +26191,10 @@
    [
     1795312332074,
     2572
+   ],
+   [
+    1795338863244,
+    4621
    ]
   ]
  },
@@ -26673,7 +26663,7 @@
   "titulo": "Pulling Off PERFECT Robberies in GTA 6 (Supercars & Heists)",
   "link": "https://www.youtube.com/watch?v=4_l-uFIuZL0",
   "data": 1795289921000,
-  "views": 47,
+  "views": 13602,
   "visto": 1795297935162,
   "tema": null,
   "hist": [
@@ -26684,6 +26674,10 @@
    [
     1795312332074,
     47
+   ],
+   [
+    1795338863244,
+    13602
    ]
   ]
  },
@@ -27180,13 +27174,17 @@
   "titulo": "GTA 6 - How to Get the FREE GOLD AK & Grenade Launcher! (Secret Weapon Location) Copy title",
   "link": "https://www.youtube.com/shorts/4xHNKpy0FZM",
   "data": 1795302029000,
-  "views": 2615,
+  "views": 8083,
   "visto": 1795312332074,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795312332074,
     2615
+   ],
+   [
+    1795338863244,
+    8083
    ]
   ]
  },
@@ -27197,13 +27195,17 @@
   "titulo": "GTA 6 - Chapter 1 - All Optional Missions [PS5 4K]",
   "link": "https://www.youtube.com/watch?v=VitS3_-HmBQ",
   "data": 1795311565000,
-  "views": 792,
+  "views": 31311,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     792
+   ],
+   [
+    1795338863244,
+    31311
    ]
   ]
  },
@@ -27214,13 +27216,17 @@
   "titulo": "GTA 6 – Spare Arnold Vs Kill Arnold And Dialogue Change 4K",
   "link": "https://www.youtube.com/watch?v=yY_BCMPMK9o",
   "data": 1795309213000,
-  "views": 218,
+  "views": 6377,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     218
+   ],
+   [
+    1795338863244,
+    6377
    ]
   ]
  },
@@ -27231,13 +27237,17 @@
   "titulo": "GTA 6 – Viral Monkey Humiliates Animal Rights Protester | Full Side Mission 4K",
   "link": "https://www.youtube.com/watch?v=vhmuxPaH3SU",
   "data": 1795303816000,
-  "views": 1785,
+  "views": 14991,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     1785
+   ],
+   [
+    1795338863244,
+    14991
    ]
   ]
  },
@@ -27248,13 +27258,17 @@
   "titulo": "GTA 6 - Jason Becomes A Pool Boy Scene 4K",
   "link": "https://www.youtube.com/watch?v=4w68_FHkdNQ",
   "data": 1795299253000,
-  "views": 6212,
+  "views": 18033,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     6212
+   ],
+   [
+    1795338863244,
+    18033
    ]
   ]
  },
@@ -27265,13 +27279,17 @@
   "titulo": "GTA 6 - Beating Up Annoying Streamer",
   "link": "https://www.youtube.com/watch?v=KG4sm8CGzWo",
   "data": 1795310277000,
-  "views": 638,
+  "views": 21054,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     638
+   ],
+   [
+    1795338863244,
+    21054
    ]
   ]
  },
@@ -27282,13 +27300,17 @@
   "titulo": "TUNANDO O VOLKSWAGEN JETTA TSI NO GTA 6! REBAIXADO E COM TURBO!",
   "link": "https://www.youtube.com/watch?v=JXzB5ySgpiI",
   "data": 1795300627000,
-  "views": 7918,
+  "views": 89320,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     7918
+   ],
+   [
+    1795338863244,
+    89320
    ]
   ]
  },
@@ -27299,13 +27321,17 @@
   "titulo": "GTA 6 É TUDO ISSO MESMO?",
   "link": "https://www.youtube.com/watch?v=MX6NgNBFa3o",
   "data": 1795304588000,
-  "views": 14422,
+  "views": 94927,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     14422
+   ],
+   [
+    1795338863244,
+    94927
    ]
   ]
  },
@@ -27316,13 +27342,17 @@
   "titulo": "BUSCANDO a LUCIA na PRISÃO... Jogando o Modo História! (Gameplay GTA 6 PS5 4k) #gta6",
   "link": "https://www.youtube.com/watch?v=2wcGoJdMgEU",
   "data": 1795310893000,
-  "views": 617,
+  "views": 26180,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     617
+   ],
+   [
+    1795338863244,
+    26180
    ]
   ]
  },
@@ -27333,13 +27363,17 @@
   "titulo": "GTA 6 - Jason GOGO BOY",
   "link": "https://www.youtube.com/watch?v=QSwJAb3ydgc",
   "data": 1795305888000,
-  "views": 2447,
+  "views": 27158,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     2447
+   ],
+   [
+    1795338863244,
+    27158
    ]
   ]
  },
@@ -27350,13 +27384,17 @@
   "titulo": "CABEÇAS EXPLODINDO EM 3, 2, 1... FIM DO MISTÉRIO DO \"PÉ GRANDE\" em GTA 6 [EXPLICAÇÃO]",
   "link": "https://www.youtube.com/watch?v=z7_qydUF7XY",
   "data": 1795301066000,
-  "views": 6535,
+  "views": 29480,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     6535
+   ],
+   [
+    1795338863244,
+    29480
    ]
   ]
  },
@@ -27367,13 +27405,17 @@
   "titulo": "GTA 6 TÁ RODANDO LISO NO XBOX SERIES S",
   "link": "https://www.youtube.com/watch?v=sA4U8FTLkz0",
   "data": 1795300276000,
-  "views": 11424,
+  "views": 32706,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     11424
+   ],
+   [
+    1795338863244,
+    32706
    ]
   ]
  },
@@ -27384,13 +27426,17 @@
   "titulo": "GTA 6 - Credit Check (Meet Raul’s Crew) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=CTuBeG406pY",
   "data": 1795302558000,
-  "views": 179,
+  "views": 668,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     179
+   ],
+   [
+    1795338863244,
+    668
    ]
   ]
  },
@@ -27401,13 +27447,17 @@
   "titulo": "GTA 6 - Crosstown Traffic (Meet Raul) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=EDfkvvpSACs",
   "data": 1795300183000,
-  "views": 228,
+  "views": 784,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     228
+   ],
+   [
+    1795338863244,
+    784
    ]
   ]
  },
@@ -27418,13 +27468,17 @@
   "titulo": "GTA 6 - June Warehouse - All Valuables - Full Stealth Walkthrough",
   "link": "https://www.youtube.com/watch?v=zoSZf1Ztm7A",
   "data": 1795297963000,
-  "views": 912,
+  "views": 3636,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     912
+   ],
+   [
+    1795338863244,
+    3636
    ]
   ]
  },
@@ -27435,13 +27489,17 @@
   "titulo": "GTA 6 - Destroy Synthetics Lab - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=rDmVhOkOxoM",
   "data": 1795297892000,
-  "views": 298,
+  "views": 1053,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     298
+   ],
+   [
+    1795338863244,
+    1053
    ]
   ]
  },
@@ -27452,13 +27510,17 @@
   "titulo": "GTA 6 - Visit Andy's New House - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=KSd5ny0irFA",
   "data": 1795297804000,
-  "views": 122,
+  "views": 302,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     122
+   ],
+   [
+    1795338863244,
+    302
    ]
   ]
  },
@@ -27469,13 +27531,17 @@
   "titulo": "GTA 6 - First Impressions (Meeting with Raul) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=ylZDZlD6qNo",
   "data": 1795297689000,
-  "views": 145,
+  "views": 227,
   "visto": 1795312332074,
   "tema": "kw:review",
   "hist": [
    [
     1795312332074,
     145
+   ],
+   [
+    1795338863244,
+    227
    ]
   ]
  },
@@ -27486,13 +27552,17 @@
   "titulo": "GTA 6 - Top Billing (Watch the Real Dimez) - Full Walkthrough",
   "link": "https://www.youtube.com/watch?v=WQVNZe7fTuY",
   "data": 1795297602000,
-  "views": 357,
+  "views": 1928,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     357
+   ],
+   [
+    1795338863244,
+    1928
    ]
   ]
  },
@@ -27503,13 +27573,17 @@
   "titulo": "GTA 6 - Find Roxy - How to",
   "link": "https://www.youtube.com/watch?v=dYJi_Qw6knQ",
   "data": 1795297547000,
-  "views": 128,
+  "views": 251,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     128
+   ],
+   [
+    1795338863244,
+    251
    ]
   ]
  },
@@ -27520,13 +27594,17 @@
   "titulo": "GTA 6 - Find the Dimez - How to",
   "link": "https://www.youtube.com/watch?v=EzwhAqkY2Nw",
   "data": 1795297466000,
-  "views": 186,
+  "views": 509,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     186
+   ],
+   [
+    1795338863244,
+    509
    ]
   ]
  },
@@ -27537,13 +27615,17 @@
   "titulo": "All 7 Book Swap Locations – GTA 6",
   "link": "https://www.youtube.com/watch?v=FXhhoOqhiD0",
   "data": 1795302028000,
-  "views": 87,
+  "views": 388,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     87
+   ],
+   [
+    1795338863244,
+    388
    ]
   ]
  },
@@ -27554,13 +27636,17 @@
   "titulo": "La Cascara Motel – GTA 6 – All Valuable Items",
   "link": "https://www.youtube.com/watch?v=ifIVOvQ3TYM",
   "data": 1795298817000,
-  "views": 147,
+  "views": 273,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     147
+   ],
+   [
+    1795338863244,
+    273
    ]
   ]
  },
@@ -27571,13 +27657,17 @@
   "titulo": "June Warehouse – GTA 6 – All Valuable Items",
   "link": "https://www.youtube.com/watch?v=xM8JnFVRDaU",
   "data": 1795298570000,
-  "views": 136,
+  "views": 468,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     136
+   ],
+   [
+    1795338863244,
+    468
    ]
   ]
  },
@@ -27588,13 +27678,17 @@
   "titulo": "Kingpin Bowling – GTA 6 – All Valuable Items",
   "link": "https://www.youtube.com/watch?v=CuBonGqDugs",
   "data": 1795298489000,
-  "views": 104,
+  "views": 300,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     104
+   ],
+   [
+    1795338863244,
+    300
    ]
   ]
  },
@@ -27605,13 +27699,17 @@
   "titulo": "GTA 5 NPCs vs GTA 6 NPCs!",
   "link": "https://www.youtube.com/shorts/Y6vlJafNWUQ",
   "data": 1795302002000,
-  "views": 48,
+  "views": 3113,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     48
+   ],
+   [
+    1795338863244,
+    3113
    ]
   ]
  },
@@ -27622,13 +27720,17 @@
   "titulo": "Restoring a Classic Muscle Car in GTA 6!",
   "link": "https://www.youtube.com/shorts/hZ9asyZzAiI",
   "data": 1795299337000,
-  "views": 2143,
+  "views": 39046,
   "visto": 1795312332074,
   "tema": "kw:carros",
   "hist": [
    [
     1795312332074,
     2143
+   ],
+   [
+    1795338863244,
+    39046
    ]
   ]
  },
@@ -27639,13 +27741,17 @@
   "titulo": "GTA 6 Gun Stores Have a Hidden Secret...",
   "link": "https://www.youtube.com/shorts/5qNjJ3KnVwQ",
   "data": 1795306184000,
-  "views": 1890,
+  "views": 28757,
   "visto": 1795312332074,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795312332074,
     1890
+   ],
+   [
+    1795338863244,
+    28757
    ]
   ]
  },
@@ -27656,13 +27762,17 @@
   "titulo": "8 Things You NEED to Do First in GTA 6 for the PERFECT START",
   "link": "https://www.youtube.com/watch?v=85s4Vt8_CLQ",
   "data": 1795300225000,
-  "views": 9215,
+  "views": 32746,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     9215
+   ],
+   [
+    1795338863244,
+    32746
    ]
   ]
  },
@@ -27673,13 +27783,17 @@
   "titulo": "🚨 GTA 6 #5 - O INÍCIO DA GAMEPLAY! | Grand Theft Auto VI em Português PT-BR no PS5 Pro",
   "link": "https://www.youtube.com/watch?v=LVhXTJmfIbg",
   "data": 1795310911000,
-  "views": 6270,
+  "views": 6602,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     6270
+   ],
+   [
+    1795338863244,
+    6602
    ]
   ]
  },
@@ -27690,13 +27804,17 @@
   "titulo": "A perseguição de caças no GTA 6",
   "link": "https://www.youtube.com/shorts/OkCyw3w7E3I",
   "data": 1795309232000,
-  "views": 28,
+  "views": 984,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     28
+   ],
+   [
+    1795338863244,
+    984
    ]
   ]
  },
@@ -27707,13 +27825,17 @@
   "titulo": "¿Qué PASA si CONSIGUES 6 ESTRELLAS en GTA 6? 🚔⭐️ (Grand Theft Auto VI)",
   "link": "https://www.youtube.com/watch?v=peUDilf9FgA",
   "data": 1795305601000,
-  "views": 19303,
+  "views": 138112,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     19303
+   ],
+   [
+    1795338863244,
+    138112
    ]
   ]
  },
@@ -27724,13 +27846,17 @@
   "titulo": "Voy al TACÓN por PRIMERA VEZ en GTA 6! #4 🚔⭐️ (Grand Theft Auto VI)",
   "link": "https://www.youtube.com/watch?v=yVMD4zi16AU",
   "data": 1795302001000,
-  "views": 30276,
+  "views": 121693,
   "visto": 1795312332074,
   "tema": null,
   "hist": [
    [
     1795312332074,
     30276
+   ],
+   [
+    1795338863244,
+    121693
    ]
   ]
  },
@@ -27899,6 +28025,358 @@
   "data": 1795311000000,
   "views": null,
   "visto": 1795312332074,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "MKIceAndFire|R97EoVD1nr4",
+  "fonte": "MKIceAndFire",
+  "grupo": "guia",
+  "titulo": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] - No Commentary",
+  "link": "https://www.youtube.com/watch?v=R97EoVD1nr4",
+  "data": 1795329731000,
+  "views": 84909,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    84909
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|EoiL9wGwAWM",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 – Animal Activists Gone Crazy! All Side Missions 4K",
+  "link": "https://www.youtube.com/watch?v=EoiL9wGwAWM",
+  "data": 1795327220000,
+  "views": 2267,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    2267
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|p0xNdTASpJc",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 - True Ending (Best Ending) 4K",
+  "link": "https://www.youtube.com/watch?v=p0xNdTASpJc",
+  "data": 1795320539000,
+  "views": 27513,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    27513
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|5bvpen7t64o",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Cute Jet Ski Riding Dog Rescues Jason Scene 4K",
+  "link": "https://www.youtube.com/watch?v=5bvpen7t64o",
+  "data": 1795314615000,
+  "views": 3456,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    3456
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|ltrBWDUDNq8",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - 6 Star Wanted Level (IMPOSSIBLE TO ESCAPE)",
+  "link": "https://www.youtube.com/watch?v=ltrBWDUDNq8",
+  "data": 1795328549000,
+  "views": 8057,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    8057
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|Rh6pNkapKjo",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 All Cutscenes Full Movie (4K ULTRA HD)",
+  "link": "https://www.youtube.com/watch?v=Rh6pNkapKjo",
+  "data": 1795316410000,
+  "views": 22883,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    22883
+   ]
+  ]
+ },
+ {
+  "chave": "BelotoPlays|Xh3gSzoqlIM",
+  "fonte": "BelotoPlays",
+  "grupo": "br",
+  "titulo": "PAUSA NO GTA 6 para uma AÇÃO DE VERDADE!",
+  "link": "https://www.youtube.com/shorts/Xh3gSzoqlIM",
+  "data": 1795313215000,
+  "views": 964,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    964
+   ]
+  ]
+ },
+ {
+  "chave": "Gameplayrj|-ZyfrsXbHYo",
+  "fonte": "Gameplayrj",
+  "grupo": "br",
+  "titulo": "DETALHES QUE FAZEM A DIFERENÇA NO GTA 6",
+  "link": "https://www.youtube.com/shorts/-ZyfrsXbHYo",
+  "data": 1795326561000,
+  "views": 4744,
+  "visto": 1795338863244,
+  "tema": "kw:detalhes",
+  "hist": [
+   [
+    1795338863244,
+    4744
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|y_HbIEPKj3o",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Saber Shipping Facility - All Valuables - Full Stealth Undetected Walkthrough",
+  "link": "https://www.youtube.com/watch?v=y_HbIEPKj3o",
+  "data": 1795333422000,
+  "views": 38,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    38
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|oM2nSCQHb-I",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Find a pair of the DWNPLY sneakers - How to",
+  "link": "https://www.youtube.com/watch?v=oM2nSCQHb-I",
+  "data": 1795333368000,
+  "views": 28,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    28
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|-uVKD075Zb4",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Ride Or Die (Meet Dre’Quan) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=-uVKD075Zb4",
+  "data": 1795333297000,
+  "views": 32,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    32
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|uxoOymNZBaw",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Caught Slipping - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=uxoOymNZBaw",
+  "data": 1795333139000,
+  "views": 17,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    17
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|rldenEWosFE",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "All 3 Kingfishers Operations & Valuables – GTA 6",
+  "link": "https://www.youtube.com/watch?v=rldenEWosFE",
+  "data": 1795338027000,
+  "views": 4,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    4
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|szVKH6CAPys",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "All Unique Playlist Locations – GTA 6",
+  "link": "https://www.youtube.com/watch?v=szVKH6CAPys",
+  "data": 1795336904000,
+  "views": 4,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    4
+   ]
+  ]
+ },
+ {
+  "chave": "Hazard|VFASXvD3oPY",
+  "fonte": "Hazard",
+  "grupo": "guia",
+  "titulo": "Pulling Off PERFECT Robberies in GTA 6 (Supercars & Heists)",
+  "link": "https://www.youtube.com/watch?v=VFASXvD3oPY",
+  "data": 1795327875000,
+  "views": 0,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    0
+   ]
+  ]
+ },
+ {
+  "chave": "Hazard|PjDSBP2J7RY",
+  "fonte": "Hazard",
+  "grupo": "guia",
+  "titulo": "Is 30 FPS Actually Bad in GTA 6?",
+  "link": "https://www.youtube.com/shorts/PjDSBP2J7RY",
+  "data": 1795320007000,
+  "views": 4530,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    4530
+   ]
+  ]
+ },
+ {
+  "chave": "Maka91Productions|WZ9EM_i_W38",
+  "fonte": "Maka91Productions",
+  "grupo": "guia",
+  "titulo": "GTA 6 - All 18 Meditation Spots Location Guide - Max Focus / Positive Mental Attitude",
+  "link": "https://www.youtube.com/watch?v=WZ9EM_i_W38",
+  "data": 1795313685000,
+  "views": 1998,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    1998
+   ]
+  ]
+ },
+ {
+  "chave": "FANTIZ GAMING|jk18rRBfZM4",
+  "fonte": "FANTIZ GAMING",
+  "grupo": "gringo",
+  "titulo": "Never Go To \"N Point\" Of GTA 6!",
+  "link": "https://www.youtube.com/shorts/jk18rRBfZM4",
+  "data": 1795329394000,
+  "views": 270801,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    270801
+   ]
+  ]
+ },
+ {
+  "chave": "FANTIZ GAMING|PhkNViP2MhE",
+  "fonte": "FANTIZ GAMING",
+  "grupo": "gringo",
+  "titulo": "STEALING EVERY MILITARY VEHICLE IN GTA 6!",
+  "link": "https://www.youtube.com/watch?v=PhkNViP2MhE",
+  "data": 1795318210000,
+  "views": 26534,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    26534
+   ]
+  ]
+ },
+ {
+  "chave": "RGR29|DoldVIAIvyc",
+  "fonte": "RGR29",
+  "grupo": "guia",
+  "titulo": "GTA 6 Gameplay Walkthrough Part 5 [PS5 4K] - No Commentary",
+  "link": "https://www.youtube.com/watch?v=DoldVIAIvyc",
+  "data": 1795328943000,
+  "views": 357,
+  "visto": 1795338863244,
+  "tema": null,
+  "hist": [
+   [
+    1795338863244,
+    357
+   ]
+  ]
+ },
+ {
+  "chave": "Ei Nerd|https://www.einerd.com/?p=226017",
+  "fonte": "Ei Nerd",
+  "grupo": "noticia",
+  "titulo": "Criador de Deus Ex espera que GTA 6 seja o último",
+  "link": "https://www.einerd.com/warren-spector-orcamento-gta-6/",
+  "data": 1795312800000,
+  "views": null,
+  "visto": 1795338863244,
   "tema": null,
   "hist": []
  }
