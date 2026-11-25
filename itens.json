@@ -1,17 +1,5 @@
 [
  {
-  "chave": "PC Gamer|G7nXzGB2KkaN8iPRFxBpWV",
-  "fonte": "PC Gamer",
-  "grupo": "noticia",
-  "titulo": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
-  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-  "data": 1794718346000,
-  "views": null,
-  "visto": 1794738074631,
-  "tema": null,
-  "hist": []
- },
- {
   "chave": "GamingBolt|Z0X5ygAY6Ms",
   "fonte": "GamingBolt",
   "grupo": "gringo",
@@ -29,27 +17,6 @@
    [
     1794779652888,
     13284
-   ]
-  ]
- },
- {
-  "chave": "GamingBolt|rIRvWBF00_w",
-  "fonte": "GamingBolt",
-  "grupo": "gringo",
-  "titulo": "GTA 6 Could Be The BIG Reason Rockstar's Next Game Comes Sooner",
-  "link": "https://www.youtube.com/watch?v=rIRvWBF00_w",
-  "data": 1794738628000,
-  "views": 53708,
-  "visto": 1794763211484,
-  "tema": null,
-  "hist": [
-   [
-    1794763211484,
-    37002
-   ],
-   [
-    1794779652888,
-    53708
    ]
   ]
  },
@@ -138,27 +105,6 @@
   ]
  },
  {
-  "chave": "Hunters CLan|Jfc4jGcuogg",
-  "fonte": "Hunters CLan",
-  "grupo": "br",
-  "titulo": "🚨 GTA 6: COUNTDOWN !!! MARATONA Grand Theft Auto VI 😱",
-  "link": "https://www.youtube.com/watch?v=Jfc4jGcuogg",
-  "data": 1794739276000,
-  "views": 14954,
-  "visto": 1794763211484,
-  "tema": null,
-  "hist": [
-   [
-    1794763211484,
-    8846
-   ],
-   [
-    1794779652888,
-    14954
-   ]
-  ]
- },
- {
   "chave": "Eurogamer|https://www.eurogamer.net/gta-6-tracklist-leak",
   "fonte": "Eurogamer",
   "grupo": "noticia",
@@ -192,18 +138,6 @@
   "views": null,
   "visto": 1794763211484,
   "tema": "kw:carros",
-  "hist": []
- },
- {
-  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157623/sera-que-gta-6-marcara-o-fim-desta-geracao-de-consoles",
-  "fonte": "IGN Brasil",
-  "grupo": "noticia",
-  "titulo": "Será que GTA 6 marcará o fim desta geração de consoles?",
-  "link": "https://br.ign.com/grand-theft-auto-vi/157623/sera-que-gta-6-marcara-o-fim-desta-geracao-de-consoles",
-  "data": 1794747636000,
-  "views": null,
-  "visto": 1794763211484,
-  "tema": null,
   "hist": []
  },
  {
@@ -32632,13 +32566,17 @@
   "titulo": "🚨 GTA 6 #9 - O INÍCIO DA GAMEPLAY! | Grand Theft Auto VI em Português PT-BR no PS5 Pro",
   "link": "https://www.youtube.com/watch?v=Zn0v4GxbTwU",
   "data": 1795514364000,
-  "views": 3314,
+  "views": 3990,
   "visto": 1795551783694,
   "tema": null,
   "hist": [
    [
     1795551783694,
     3314
+   ],
+   [
+    1795613361961,
+    3990
    ]
   ]
  },
@@ -33485,13 +33423,17 @@
   "titulo": "GTA 6 Mission #27 - Moses (Chapter 2) [Full Walkthrough - PS5 4K]",
   "link": "https://www.youtube.com/watch?v=h6u6UoA-Kss",
   "data": 1795575624000,
-  "views": 727,
+  "views": 18090,
   "visto": 1795577917317,
   "tema": null,
   "hist": [
    [
     1795577917317,
     727
+   ],
+   [
+    1795613361961,
+    18090
    ]
   ]
  },
@@ -33502,13 +33444,17 @@
   "titulo": "GTA 6 - 100% Walkthrough Part 8 | 4K Livestream [No Commentary]",
   "link": "https://www.youtube.com/watch?v=4t6I6S0JNDo",
   "data": 1795571670000,
-  "views": 0,
+  "views": 27908,
   "visto": 1795577917317,
   "tema": null,
   "hist": [
    [
     1795577917317,
     0
+   ],
+   [
+    1795613361961,
+    27908
    ]
   ]
  },
@@ -33536,13 +33482,17 @@
   "titulo": "GTA 6 - Travel Back to the ORIGINAL VICE CITY (Secret Easter Egg) 4K Ultra HD",
   "link": "https://www.youtube.com/watch?v=ghM3FLgQnGk",
   "data": 1795576424000,
-  "views": 114,
+  "views": 9017,
   "visto": 1795577917317,
   "tema": "kw:detalhes",
   "hist": [
    [
     1795577917317,
     114
+   ],
+   [
+    1795613361961,
+    9017
    ]
   ]
  },
@@ -33910,13 +33860,17 @@
   "titulo": "🔴 Getting ULTRA RICH & Becoming a Professional Robber in GTA 6 (Chapter 3)",
   "link": "https://www.youtube.com/watch?v=C1YIaQ4BQCU",
   "data": 1795571730000,
-  "views": 1112,
+  "views": 28058,
   "visto": 1795577917317,
   "tema": null,
   "hist": [
    [
     1795577917317,
     1112
+   ],
+   [
+    1795613361961,
+    28058
    ]
   ]
  },
@@ -33995,13 +33949,17 @@
   "titulo": "Dumbest ways to die in GTA 6",
   "link": "https://www.youtube.com/shorts/IrLbVTEkWIM",
   "data": 1795572183000,
-  "views": 1796,
+  "views": 4194,
   "visto": 1795577917317,
   "tema": null,
   "hist": [
    [
     1795577917317,
     1796
+   ],
+   [
+    1795613361961,
+    4194
    ]
   ]
  },
@@ -34389,6 +34347,920 @@
   "data": 1795551300000,
   "views": null,
   "visto": 1795577917317,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA Series Videos|sad_2h4bqTU",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #29 - Slam Dunk (Chapter 2) [Full Walkthrough - PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=sad_2h4bqTU",
+  "data": 1795611625000,
+  "views": 453,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    453
+   ]
+  ]
+ },
+ {
+  "chave": "GTA Series Videos|9NJ9qrfpG7c",
+  "fonte": "GTA Series Videos",
+  "grupo": "gringo",
+  "titulo": "GTA 6 Mission #28 - Daily Driver (Chapter 2) [Full Walkthrough - PS5 4K]",
+  "link": "https://www.youtube.com/watch?v=9NJ9qrfpG7c",
+  "data": 1795599020000,
+  "views": 4820,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    4820
+   ]
+  ]
+ },
+ {
+  "chave": "GamingBolt|MRps9Cq7bHI",
+  "fonte": "GamingBolt",
+  "grupo": "gringo",
+  "titulo": "GTA 6 - 20 BIG Mistakes Every Player Should Avoid",
+  "link": "https://www.youtube.com/watch?v=MRps9Cq7bHI",
+  "data": 1795602612000,
+  "views": 7364,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    7364
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|6Q-IR-foZV8",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 - All Lucia's Mom Mia Caminos Scenes 4K",
+  "link": "https://www.youtube.com/watch?v=6Q-IR-foZV8",
+  "data": 1795611636000,
+  "views": 203,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    203
+   ]
+  ]
+ },
+ {
+  "chave": "Gamer's Little Playground|iWd7ekybJ_A",
+  "fonte": "Gamer's Little Playground",
+  "grupo": "guia",
+  "titulo": "GTA 6 - All Dunk Scenes 4K",
+  "link": "https://www.youtube.com/watch?v=iWd7ekybJ_A",
+  "data": 1795586408000,
+  "views": 3673,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    3673
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|-nK45N--p8Y",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Lucia Gets Abducted by UFO & Saves Area 51 Alien",
+  "link": "https://www.youtube.com/watch?v=-nK45N--p8Y",
+  "data": 1795608028000,
+  "views": 1780,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    1780
+   ]
+  ]
+ },
+ {
+  "chave": "Shirrako|gzaf1hZvMdY",
+  "fonte": "Shirrako",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Hulk Destroys an Army Just to Get a Hug",
+  "link": "https://www.youtube.com/watch?v=gzaf1hZvMdY",
+  "data": 1795593619000,
+  "views": 22599,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    22599
+   ]
+  ]
+ },
+ {
+  "chave": "Vitão GTA|r39BeCT4fdU",
+  "fonte": "Vitão GTA",
+  "grupo": "br",
+  "titulo": "A pintura do Pay 'n' Spray é PIOR que a da oficina no GTA 6? #gta6 #gtavi #jogos #games",
+  "link": "https://www.youtube.com/shorts/r39BeCT4fdU",
+  "data": 1795584400000,
+  "views": 1955,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    1955
+   ]
+  ]
+ },
+ {
+  "chave": "Davy Jones GTA 6|qusNQdZNW3A",
+  "fonte": "Davy Jones GTA 6",
+  "grupo": "br",
+  "titulo": "DAVY NÃO PODE FAZER SORTEIO DE GTA 6??? 😱😱😱",
+  "link": "https://www.youtube.com/shorts/qusNQdZNW3A",
+  "data": 1795611433000,
+  "views": 1871,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    1871
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|iqn7xuoTfQU",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Brother To Brother (Back up Yago) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=iqn7xuoTfQU",
+  "data": 1795612674000,
+  "views": 1,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    1
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|6F1cFWDHI5U",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - The Last Mile Passing the Torch (Recover Pete’s Plane) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=6F1cFWDHI5U",
+  "data": 1795612640000,
+  "views": 4,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    4
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|cFERZYM7r8w",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Peach! (Join the Cellerica Initiation) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=cFERZYM7r8w",
+  "data": 1795612469000,
+  "views": 7,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    7
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|8IuAAL_tU0E",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Twist Wrist, Smash, Grab (Join Billy on a Job) - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=8IuAAL_tU0E",
+  "data": 1795611979000,
+  "views": 13,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    13
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|gsAryH_mv5U",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Attend Eddie Acosta’s Party - Full Walkthrough",
+  "link": "https://www.youtube.com/watch?v=gsAryH_mv5U",
+  "data": 1795611945000,
+  "views": 9,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    9
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|M-fhxaNJmHQ",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Fishing Shacks - All Key Valuables - Full Stealth Walkthrough",
+  "link": "https://www.youtube.com/watch?v=M-fhxaNJmHQ",
+  "data": 1795598046000,
+  "views": 160,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    160
+   ]
+  ]
+ },
+ {
+  "chave": "Trophy Tom|oIL6cShCLso",
+  "fonte": "Trophy Tom",
+  "grupo": "guia",
+  "titulo": "GTA 6 - Palmer Fishing Warehouse - All Key Valuables - Full Stealth Walkthrough",
+  "link": "https://www.youtube.com/watch?v=oIL6cShCLso",
+  "data": 1795597870000,
+  "views": 174,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    174
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|vn1gTzRwufY",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Pegassi Lustrous Toros Location – GTA 6 Randy's Car List",
+  "link": "https://www.youtube.com/watch?v=vn1gTzRwufY",
+  "data": 1795595969000,
+  "views": 191,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": [
+   [
+    1795613361961,
+    191
+   ]
+  ]
+ },
+ {
+  "chave": "Game Guides Channel|j4J1KzW6v7M",
+  "fonte": "Game Guides Channel",
+  "grupo": "guia",
+  "titulo": "Pfister Bubblegum Growler Location – GTA 6 Randy's Car List",
+  "link": "https://www.youtube.com/watch?v=j4J1KzW6v7M",
+  "data": 1795587737000,
+  "views": 232,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": [
+   [
+    1795613361961,
+    232
+   ]
+  ]
+ },
+ {
+  "chave": "Hazard|Bz3JEUhSCdE",
+  "fonte": "Hazard",
+  "grupo": "guia",
+  "titulo": "The Easiest Money in GTA 6",
+  "link": "https://www.youtube.com/shorts/Bz3JEUhSCdE",
+  "data": 1795579236000,
+  "views": 2908,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    2908
+   ]
+  ]
+ },
+ {
+  "chave": "GhillieMaster|eLpjlvuyP48",
+  "fonte": "GhillieMaster",
+  "grupo": "guia",
+  "titulo": "GTA 6 DAY 7! Time To ROB!",
+  "link": "https://www.youtube.com/watch?v=eLpjlvuyP48",
+  "data": 1795605089000,
+  "views": 9608,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    9608
+   ]
+  ]
+ },
+ {
+  "chave": "Hunters CLan|oSWQTnColN4",
+  "fonte": "Hunters CLan",
+  "grupo": "br",
+  "titulo": "🚨 GTA 6 #10 - O INÍCIO DA GAMEPLAY! | Grand Theft Auto VI em Português PT-BR no PS5 Pro (Capítulo 4)",
+  "link": "https://www.youtube.com/watch?v=oSWQTnColN4",
+  "data": 1795607385000,
+  "views": 0,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    0
+   ]
+  ]
+ },
+ {
+  "chave": "RGR29|iC0Mc0elaxw",
+  "fonte": "RGR29",
+  "grupo": "guia",
+  "titulo": "GTA 6 Gameplay Walkthrough Part 7 [PS5 4K] - No Commentary",
+  "link": "https://www.youtube.com/watch?v=iC0Mc0elaxw",
+  "data": 1795578718000,
+  "views": 964,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": [
+   [
+    1795613361961,
+    964
+   ]
+  ]
+ },
+ {
+  "chave": "IGN|0ffa564b-1471-4d9f-94eb-5382eb9a4633",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+  "link": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+  "data": 1795610651000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|54e94fcc-5f2a-4619-93d3-be4247fefc14",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+  "link": "https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
+  "data": 1795607469000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|6b439407-ecaf-4c2b-b9ab-c560fbbbf785",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version",
+  "link": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+  "data": 1795601745000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN|1e92b0c2-b6d9-4fe2-b34a-cabaf3e970b0",
+  "fonte": "IGN",
+  "grupo": "noticia",
+  "titulo": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+  "link": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+  "data": 1795589724000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=252713",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6: When to sell AudaCity’s Dacity Coin for maximum profit",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-sell-audacity-coin-profit/",
+  "data": 1795610122000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=252703",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6: All Criminal Profiles explained",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-criminal-profiles-explained/",
+  "data": 1795607256000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=252685",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-company-property-walkthrough-how-to-save-the-weapons-cargo/",
+  "data": 1795604017000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=252690",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6: How to flip a car in Grand Theft Auto 6",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+  "data": 1795603872000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "VGC|https://www.videogameschronicle.com/?p=252680",
+  "fonte": "VGC",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
+  "link": "https://www.videogameschronicle.com/guide/gta-6-caught-slipping-walkthrough/",
+  "data": 1795600680000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "PC Gamer|56Rcb8u4M4YxZwDwmjmKb",
+  "fonte": "PC Gamer",
+  "grupo": "noticia",
+  "titulo": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
+  "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
+  "data": 1795605282000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
+  "link": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+  "data": 1795610520000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:mapa",
+  "hist": []
+ },
+ {
+  "chave": "Eurogamer|https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+  "fonte": "Eurogamer",
+  "grupo": "noticia",
+  "titulo": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+  "link": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+  "data": 1795598110000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-send-money-to-lorena-walkthrough-67c9",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Send Money to Lorena Walkthrough",
+  "link": "https://www.gtaboom.com/gta-6-send-money-to-lorena-walkthrough-67c9",
+  "data": 1795602517000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-send-more-money-to-lorena-walkthrough-3feb",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Send More Money to Lorena Walkthrough",
+  "link": "https://www.gtaboom.com/gta-6-send-more-money-to-lorena-walkthrough-3feb",
+  "data": 1795602495000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-tyrone-walkthrough-9654",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Tyrone Walkthrough and How to Start Here, Kitty Kitty",
+  "link": "https://www.gtaboom.com/gta-6-tyrone-walkthrough-9654",
+  "data": 1795602474000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-here-kitty-kitty-walkthrough-b66a",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Here, Kitty Kitty Walkthrough for Finding Charles and the Kitty Litter",
+  "link": "https://www.gtaboom.com/gta-6-here-kitty-kitty-walkthrough-b66a",
+  "data": 1795602452000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-boobie-time-walkthrough-ef55",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Boobie Time Walkthrough to Recover the Cash and Unlock Yasmani",
+  "link": "https://www.gtaboom.com/gta-6-boobie-time-walkthrough-ef55",
+  "data": 1795602421000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-mami-knows-best-walkthrough-62a0",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Save Mia and Finish Mami Knows Best in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-mami-knows-best-walkthrough-62a0",
+  "data": 1795602396000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-meet-the-heders-walkthrough-4c06",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "How to Complete Meet the Heders and Keep the SCOOP Tool in GTA 6",
+  "link": "https://www.gtaboom.com/gta-6-meet-the-heders-walkthrough-4c06",
+  "data": 1795602356000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-dubious-provenance-walkthrough-bb8c",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Dubious Provenance Walkthrough for All Three Parts",
+  "link": "https://www.gtaboom.com/gta-6-dubious-provenance-walkthrough-bb8c",
+  "data": 1795602329000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-car-service-walkthrough-9f8c",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Car Service Walkthrough for Getting the Schafter V12 Out of the Chop Shop",
+  "link": "https://www.gtaboom.com/gta-6-car-service-walkthrough-9f8c",
+  "data": 1795602303000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-top-billing-walkthrough-ab96",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Top Billing Walkthrough to Find Roxy and Cut the Power",
+  "link": "https://www.gtaboom.com/gta-6-top-billing-walkthrough-ab96",
+  "data": 1795602275000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-yasmanis-jewelry-jobs-walkthrough-bfe7",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Yasmani’s Jewelry Jobs Guide With All 3 Safe Codes and the Snap Gun",
+  "link": "https://www.gtaboom.com/gta-6-yasmanis-jewelry-jobs-walkthrough-bfe7",
+  "data": 1795602245000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-kamar-devon-community-center-robbery-260f",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Kamar Devon Community Center Robbery: Where to Find the Pistol and Watch",
+  "link": "https://www.gtaboom.com/gta-6-kamar-devon-community-center-robbery-260f",
+  "data": 1795601602000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "GTA BOOM|https://www.gtaboom.com/gta-6-janjaks-garage-robbery-guide-f2fb",
+  "fonte": "GTA BOOM",
+  "grupo": "noticia",
+  "titulo": "GTA 6 Janjak's Garage Robbery Guide to the Safe Code, Rifle and Car",
+  "link": "https://www.gtaboom.com/gta-6-janjaks-garage-robbery-guide-f2fb",
+  "data": 1795601569000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Rockstar Intel|https://rockstarintel.com/?p=44924",
+  "fonte": "Rockstar Intel",
+  "grupo": "noticia",
+  "titulo": "Top 10 GTA VI Mods That Fans Are Requesting",
+  "link": "https://rockstarintel.com/top-10-gta-iv-mods-that-fans-are-requesting/",
+  "data": 1795609258000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=241654",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find Progen Black Widow Emerus In GTA 6—Fastest Cars Location & Stats",
+  "link": "https://insider-gaming.com/progen-black-widow-emerus-gta-6/",
+  "data": 1795611706000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=241630",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find Progen Honeycomb Emerus In GTA 6—Fastest Cars Location & Stats",
+  "link": "https://insider-gaming.com/progen-honeycomb-emerus-gta-6/",
+  "data": 1795609942000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=241631",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find the Progen Royal Ruby Emerus In GTA 6—Fastest Cars Location & Stats",
+  "link": "https://insider-gaming.com/where-to-find-the-progen-royal-ruby-emerus-in-gta-6/",
+  "data": 1795609738000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=241613",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find Progen Seaspray Emerus In GTA 6—Fastest Cars Location & Stats",
+  "link": "https://insider-gaming.com/progen-seaspray-emerus-gta-6/",
+  "data": 1795607827000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "Insider Gaming|https://insider-gaming.com/?p=241614",
+  "fonte": "Insider Gaming",
+  "grupo": "noticia",
+  "titulo": "Where To Find the Grotti Status RSX In GTA 6—Fastest Cars Location & Stats",
+  "link": "https://insider-gaming.com/where-to-find-the-grotti-status-rsx-in-gta-6/",
+  "data": 1795607604000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/grand-theft-auto-6-the-final-flush-walkthrough/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "How To Complete The Final Flush In GTA 6",
+  "link": "https://www.thegamer.com/grand-theft-auto-6-the-final-flush-walkthrough/",
+  "data": 1795613280000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/gta-6-super-mario-easter-egg-unlockable-hats-jason-lucia-location-guide/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "How To Get The Mario And Luigi Hats In GTA 6",
+  "link": "https://www.thegamer.com/gta-6-super-mario-easter-egg-unlockable-hats-jason-lucia-location-guide/",
+  "data": 1795613100000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/grand-theft-auto-6-island-poacher-legendary-sniper-guide/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "How To Find The Island Poacher FF-50 Sniper In GTA 6",
+  "link": "https://www.thegamer.com/grand-theft-auto-6-island-poacher-legendary-sniper-guide/",
+  "data": 1795605690000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/gta-6-zoo-location-guide-how-to-find-exclusive-animals/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "Where To Find The Zoo In GTA 6",
+  "link": "https://www.thegamer.com/gta-6-zoo-location-guide-how-to-find-exclusive-animals/",
+  "data": 1795604817000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "TheGamer|https://www.thegamer.com/grand-theft-auto-6-paul-walker-fast-and-furious-car-location/",
+  "fonte": "TheGamer",
+  "grupo": "noticia",
+  "titulo": "Where To Find Paul Walker's Car From Fast And Furious In GTA 6",
+  "link": "https://www.thegamer.com/grand-theft-auto-6-paul-walker-fast-and-furious-car-location/",
+  "data": 1795602627000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157933/ps5-e-tao-potente-mesmo-analise-de-gta-6-mostra-que-a-versao-para-o-console-da-sony-apresenta-quedas",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "PS5 é tão potente mesmo? Análise de GTA 6 mostra que a versão para o console da Sony apresenta quedas na taxa de quadros \"substancialmente\" mais frequentes do que a do Xbox Series X",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157933/ps5-e-tao-potente-mesmo-analise-de-gta-6-mostra-que-a-versao-para-o-console-da-sony-apresenta-quedas",
+  "data": 1795612674000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157929/5-erros-que-voce-deve-evitar-a-todo-custo-se-quiser-comecar-bem-em-gta-6",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "5 erros que você deve evitar a todo custo se quiser começar bem em GTA 6",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157929/5-erros-que-voce-deve-evitar-a-todo-custo-se-quiser-comecar-bem-em-gta-6",
+  "data": 1795611638000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157934/versao-de-gta-6-lancados-na-nova-zelandia-e-australia-tem-uma-grande-diferenca-do-game-lancado-em-ou",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Versão de GTA 6 lançados na Nova Zelândia e Austrália tem uma grande diferença do game lançado em outros países",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157934/versao-de-gta-6-lancados-na-nova-zelandia-e-australia-tem-uma-grande-diferenca-do-game-lancado-em-ou",
+  "data": 1795610059000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:gta5x6",
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157928/dicas-para-maximizar-o-relacionamento-de-jason-e-lucia-em-gta-6",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Dicas para maximizar o relacionamento de Jason e Lucia em GTA 6",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157928/dicas-para-maximizar-o-relacionamento-de-jason-e-lucia-em-gta-6",
+  "data": 1795608039000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157925/um-calhamaco-de-papeis-atriz-de-voz-de-gta-6-detalha-que-trabalhar-para-a-rockstar-e-igual-assinar-d",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "\"Um calhamaço de papéis\": atriz de voz de GTA 6 detalha que trabalhar para a Rockstar é igual assinar documentos para comprar uma casa ou carro",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157925/um-calhamaco-de-papeis-atriz-de-voz-de-gta-6-detalha-que-trabalhar-para-a-rockstar-e-igual-assinar-d",
+  "data": 1795606242000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157927/perfil-criminal-em-gta-6-quais-os-niveis-e-como-funciona-o-sistema-de-moralidade-que-impacta-o-final",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Perfil Criminal em GTA 6: quais os níveis e como funciona o sistema de moralidade que impacta o final da história?",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157927/perfil-criminal-em-gta-6-quais-os-niveis-e-como-funciona-o-sistema-de-moralidade-que-impacta-o-final",
+  "data": 1795604442000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": null,
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157922/5-melhores-dicas-para-aproveitar-o-mapa-de-gta-6-ao-maximo",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "5 melhores dicas para aproveitar o mapa de GTA 6 ao máximo",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157922/5-melhores-dicas-para-aproveitar-o-mapa-de-gta-6-ao-maximo",
+  "data": 1795600840000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:mapa",
+  "hist": []
+ },
+ {
+  "chave": "IGN Brasil|https://br.ign.com/grand-theft-auto-vi/157920/carro-de-velozes-e-furiosos-no-gta-6-onde-encontrar-o-penumbra-ff-na-ilha-vespucci",
+  "fonte": "IGN Brasil",
+  "grupo": "noticia",
+  "titulo": "Carro de Velozes e Furiosos no GTA 6: onde encontrar o Penumbra FF na Ilha Vespucci?",
+  "link": "https://br.ign.com/grand-theft-auto-vi/157920/carro-de-velozes-e-furiosos-no-gta-6-onde-encontrar-o-penumbra-ff-na-ilha-vespucci",
+  "data": 1795597238000,
+  "views": null,
+  "visto": 1795613361961,
+  "tema": "kw:carros",
+  "hist": []
+ },
+ {
+  "chave": "TecMundo|https://www.estadao.com.br/tecmundo/voxel/rockstar-revela-inspiracoes-reais-de-jason-protagonista-de-gta-6/",
+  "fonte": "TecMundo",
+  "grupo": "noticia",
+  "titulo": "Rockstar revela inspirações reais de Jason, protagonista de GTA 6",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-revela-inspiracoes-reais-de-jason-protagonista-de-gta-6/",
+  "data": 1795605300000,
+  "views": null,
+  "visto": 1795613361961,
   "tema": null,
   "hist": []
  }
